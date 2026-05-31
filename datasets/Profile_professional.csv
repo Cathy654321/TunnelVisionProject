@@ -1,0 +1,101 @@
+ID,Age,Gender,Location,Education Level,Occupation,Salary
+0,49,Female,UK,Bachelor's,Entrepreneur,54433
+1,39,Non-binary,Australia,Professional Certification,Architect,129818
+2,46,Female,India,Professional Certification,Architect,188067
+3,40,Non-binary,Australia,Professional Certification,Data Scientist,111121
+4,37,Female,USA,Bachelor's,Entrepreneur,63012
+5,31,Male,Germany,Professional Certification,Entrepreneur,161227
+6,50,Non-binary,USA,Professional Certification,Software Engineer,62670
+7,42,Male,India,Professional Certification,Software Engineer,78410
+8,50,Female,USA,Professional Certification,Doctor,171050
+9,28,Female,Australia,Professional Certification,Software Engineer,91484
+10,44,Female,Canada,Bachelor's,Financial Analyst,111702
+11,39,Non-binary,Australia,PhD,Doctor,131998
+12,34,Male,Germany,Bachelor's,Consultant,89361
+13,34,Female,Germany,Professional Certification,Entrepreneur,151386
+14,28,Non-binary,India,PhD,Product Manager,54378
+15,50,Female,UK,Master's,Product Manager,66092
+16,32,Non-binary,UK,PhD,Product Manager,118547
+17,32,Female,Germany,Master's,Lawyer,193222
+18,50,Male,Germany,PhD,Entrepreneur,65052
+19,44,Female,Germany,PhD,Data Scientist,89614
+20,41,Non-binary,India,Master's,Consultant,157937
+21,48,Female,Australia,Bachelor's,Architect,106330
+22,35,Non-binary,Germany,Bachelor's,Product Manager,75430
+23,47,Female,India,Professional Certification,Consultant,101567
+24,40,Female,China,PhD,Marketing Manager,186932
+25,32,Non-binary,India,PhD,Data Scientist,94062
+26,28,Male,China,Bachelor's,Lawyer,98615
+27,35,Male,UK,Professional Certification,Doctor,73129
+28,28,Male,USA,Professional Certification,Entrepreneur,126610
+29,37,Male,Australia,PhD,Software Engineer,88291
+30,43,Female,China,Bachelor's,Data Scientist,192940
+31,48,Female,UK,Professional Certification,Lawyer,139073
+32,27,Female,USA,Bachelor's,Consultant,143784
+33,30,Male,USA,Professional Certification,Lawyer,125838
+34,26,Male,India,Bachelor's,Consultant,88455
+35,33,Male,India,Professional Certification,Data Scientist,109280
+36,28,Non-binary,Australia,PhD,Doctor,145060
+37,48,Non-binary,India,Master's,Marketing Manager,195475
+38,41,Male,Germany,PhD,Lawyer,93198
+39,33,Female,Germany,Professional Certification,Entrepreneur,160932
+40,45,Female,Australia,Bachelor's,Entrepreneur,182234
+41,40,Female,India,Bachelor's,Entrepreneur,187463
+42,49,Non-binary,UK,Professional Certification,Data Scientist,64174
+43,40,Non-binary,Canada,Professional Certification,Financial Analyst,87371
+44,45,Female,USA,Professional Certification,Product Manager,193061
+45,49,Non-binary,Australia,Bachelor's,Financial Analyst,91429
+46,33,Male,USA,Professional Certification,Doctor,134331
+47,46,Male,Australia,Bachelor's,Data Scientist,114535
+48,27,Non-binary,Canada,PhD,Data Scientist,111418
+49,41,Non-binary,India,PhD,Doctor,189802
+50,41,Female,UK,Professional Certification,Doctor,169304
+51,38,Female,Australia,PhD,Architect,193953
+52,44,Female,Germany,Master's,Doctor,69076
+53,43,Non-binary,Australia,Master's,Architect,123444
+54,29,Male,Canada,Professional Certification,Data Scientist,130284
+55,28,Male,USA,Master's,Marketing Manager,64738
+56,49,Non-binary,China,Professional Certification,Marketing Manager,110316
+57,36,Female,China,Professional Certification,Consultant,145105
+58,33,Male,Canada,Master's,Product Manager,134909
+59,38,Female,Canada,Master's,Product Manager,144569
+60,34,Male,Australia,Bachelor's,Product Manager,172243
+61,29,Non-binary,China,Bachelor's,Lawyer,153528
+62,33,Male,Canada,PhD,Doctor,183799
+63,50,Female,China,PhD,Architect,192962
+64,31,Non-binary,Australia,Professional Certification,Entrepreneur,185813
+65,40,Female,USA,PhD,Data Scientist,68486
+66,33,Non-binary,Australia,Bachelor's,Financial Analyst,101669
+67,47,Male,China,PhD,Software Engineer,143874
+68,44,Female,India,Master's,Product Manager,98405
+69,37,Non-binary,Germany,PhD,Doctor,161179
+70,31,Female,UK,Professional Certification,Consultant,162560
+71,44,Male,Canada,PhD,Lawyer,161870
+72,49,Non-binary,UK,Bachelor's,Entrepreneur,116871
+73,31,Male,India,Master's,Software Engineer,130243
+74,29,Male,Australia,Bachelor's,Software Engineer,172018
+75,27,Male,Germany,Bachelor's,Entrepreneur,181893
+76,27,Female,Australia,Master's,Data Scientist,146350
+77,29,Female,Germany,PhD,Financial Analyst,155123
+78,50,Female,China,Master's,Lawyer,73759
+79,33,Non-binary,UK,Professional Certification,Marketing Manager,59177
+80,37,Non-binary,Australia,PhD,Architect,199440
+81,39,Female,USA,Professional Certification,Marketing Manager,129137
+82,47,Male,UK,Professional Certification,Software Engineer,111790
+83,48,Male,USA,Professional Certification,Lawyer,149871
+84,33,Male,UK,Bachelor's,Software Engineer,110778
+85,50,Non-binary,China,Professional Certification,Entrepreneur,87048
+86,48,Male,Australia,Bachelor's,Product Manager,175271
+87,47,Male,Canada,PhD,Marketing Manager,52220
+88,46,Non-binary,USA,Professional Certification,Doctor,59718
+89,43,Male,China,PhD,Entrepreneur,66223
+90,44,Non-binary,USA,Professional Certification,Entrepreneur,68355
+91,29,Non-binary,Canada,Master's,Consultant,121563
+92,38,Non-binary,Canada,PhD,Architect,175512
+93,41,Non-binary,Australia,Professional Certification,Software Engineer,182065
+94,32,Male,Australia,PhD,Doctor,57721
+95,34,Female,Australia,PhD,Product Manager,127584
+96,41,Male,Germany,Professional Certification,Marketing Manager,199952
+97,35,Female,Germany,Professional Certification,Entrepreneur,124296
+98,30,Male,Canada,Master's,Entrepreneur,193594
+99,36,Non-binary,Germany,Master's,Marketing Manager,72919

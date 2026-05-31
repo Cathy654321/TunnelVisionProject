@@ -1,0 +1,101 @@
+ID,Age,Gender,Location,Education Level,Occupation,Salary
+0,53,Female,USA,High School,Jobless,23471
+1,21,Female,Germany,High School,Blue-collar Worker,18836
+2,33,Male,Canada,Bachelor's (Incomplete),Blue-collar Worker,14539
+3,20,Male,Australia,Bachelor's (Incomplete),Jobless,15723
+4,26,Non-binary,India,Bachelor's (Incomplete),Blue-collar Worker,31251
+5,26,Female,USA,Bachelor's (Incomplete),Freelancer,28551
+6,37,Non-binary,Canada,High School,Freelancer,29462
+7,26,Female,China,Bachelor's (Incomplete),Blue-collar Worker,15393
+8,18,Male,USA,High School,Freelancer,15742
+9,38,Male,Germany,High School,Blue-collar Worker,31984
+10,20,Male,Australia,High School,Blue-collar Worker,16437
+11,19,Non-binary,Germany,Diploma,Blue-collar Worker,28742
+12,50,Female,India,Bachelor's (Incomplete),Freelancer,17654
+13,36,Female,India,Diploma,Freelancer,37355
+14,57,Female,China,High School,Jobless,7137
+15,23,Male,UK,Diploma,Jobless,2452
+16,36,Non-binary,Germany,High School,Freelancer,30201
+17,50,Male,India,Bachelor's (Incomplete),Jobless,28645
+18,58,Female,China,Diploma,Freelancer,21012
+19,59,Male,India,High School,Jobless,33931
+20,47,Male,China,Diploma,Jobless,20590
+21,28,Male,Australia,Diploma,Blue-collar Worker,9514
+22,42,Non-binary,UK,High School,Jobless,18463
+23,21,Male,Germany,Bachelor's (Incomplete),Freelancer,14586
+24,19,Female,USA,High School,Blue-collar Worker,28915
+25,49,Female,UK,Bachelor's (Incomplete),Freelancer,35799
+26,20,Non-binary,UK,Bachelor's (Incomplete),Freelancer,27750
+27,33,Female,UK,Diploma,Jobless,12176
+28,20,Non-binary,USA,High School,Jobless,21981
+29,37,Male,USA,High School,Jobless,5449
+30,21,Male,Germany,High School,Jobless,30837
+31,27,Male,Germany,Bachelor's (Incomplete),Jobless,10280
+32,41,Female,USA,Diploma,Blue-collar Worker,866
+33,34,Non-binary,UK,Bachelor's (Incomplete),Blue-collar Worker,31555
+34,20,Non-binary,UK,High School,Blue-collar Worker,5049
+35,29,Non-binary,China,Diploma,Jobless,39556
+36,23,Non-binary,USA,High School,Blue-collar Worker,17324
+37,47,Non-binary,Germany,Diploma,Jobless,22032
+38,47,Male,Australia,Diploma,Freelancer,37734
+39,60,Female,India,High School,Jobless,35501
+40,41,Female,UK,Diploma,Freelancer,2002
+41,37,Non-binary,Canada,Bachelor's (Incomplete),Jobless,31331
+42,24,Female,China,Bachelor's (Incomplete),Freelancer,7652
+43,39,Female,UK,Bachelor's (Incomplete),Blue-collar Worker,31238
+44,31,Non-binary,USA,Diploma,Freelancer,29152
+45,18,Male,UK,Bachelor's (Incomplete),Freelancer,4430
+46,42,Male,India,Diploma,Freelancer,12482
+47,45,Non-binary,Germany,Diploma,Blue-collar Worker,5891
+48,49,Male,Germany,Diploma,Jobless,7091
+49,60,Male,Australia,High School,Jobless,19191
+50,50,Male,Canada,Bachelor's (Incomplete),Jobless,24963
+51,41,Female,Germany,High School,Freelancer,34363
+52,43,Non-binary,Canada,Bachelor's (Incomplete),Blue-collar Worker,17452
+53,50,Female,USA,Diploma,Freelancer,4027
+54,45,Female,Germany,High School,Jobless,5682
+55,25,Female,Australia,High School,Jobless,31417
+56,38,Non-binary,Germany,Diploma,Blue-collar Worker,32835
+57,18,Female,UK,Diploma,Freelancer,2728
+58,48,Non-binary,Australia,Bachelor's (Incomplete),Blue-collar Worker,24718
+59,50,Non-binary,India,High School,Blue-collar Worker,28629
+60,48,Non-binary,Canada,Bachelor's (Incomplete),Blue-collar Worker,3259
+61,28,Female,Germany,Diploma,Freelancer,39414
+62,31,Non-binary,Australia,Bachelor's (Incomplete),Blue-collar Worker,20060
+63,46,Male,Germany,Diploma,Freelancer,19817
+64,18,Non-binary,UK,Bachelor's (Incomplete),Blue-collar Worker,34953
+65,38,Female,UK,Diploma,Jobless,4901
+66,42,Non-binary,India,Bachelor's (Incomplete),Freelancer,28468
+67,54,Male,UK,High School,Jobless,16298
+68,23,Male,India,High School,Jobless,4834
+69,52,Male,India,Bachelor's (Incomplete),Jobless,5411
+70,20,Female,China,High School,Blue-collar Worker,24163
+71,39,Non-binary,USA,High School,Blue-collar Worker,29367
+72,60,Male,USA,High School,Blue-collar Worker,19612
+73,37,Non-binary,China,Bachelor's (Incomplete),Blue-collar Worker,37544
+74,43,Non-binary,Australia,Bachelor's (Incomplete),Freelancer,22214
+75,36,Female,USA,Diploma,Freelancer,17735
+76,30,Non-binary,Australia,High School,Jobless,34934
+77,27,Non-binary,UK,High School,Jobless,32841
+78,22,Non-binary,Canada,Bachelor's (Incomplete),Jobless,4202
+79,41,Male,Canada,Diploma,Blue-collar Worker,39985
+80,53,Female,Canada,High School,Blue-collar Worker,19040
+81,30,Non-binary,India,High School,Freelancer,18929
+82,41,Female,Canada,High School,Jobless,31284
+83,20,Female,Australia,High School,Freelancer,32655
+84,34,Male,India,Diploma,Blue-collar Worker,13543
+85,53,Non-binary,Canada,High School,Jobless,5790
+86,44,Male,USA,High School,Jobless,16109
+87,57,Female,UK,High School,Blue-collar Worker,7419
+88,31,Male,Germany,Diploma,Jobless,6078
+89,20,Female,USA,High School,Jobless,30293
+90,45,Non-binary,Australia,Diploma,Jobless,9406
+91,48,Female,India,Bachelor's (Incomplete),Blue-collar Worker,21710
+92,57,Non-binary,Germany,Diploma,Blue-collar Worker,8741
+93,21,Non-binary,Germany,Diploma,Blue-collar Worker,26786
+94,50,Male,Germany,Diploma,Blue-collar Worker,10047
+95,45,Female,Germany,High School,Blue-collar Worker,26706
+96,26,Male,UK,Bachelor's (Incomplete),Blue-collar Worker,14517
+97,44,Male,Australia,Bachelor's (Incomplete),Blue-collar Worker,25071
+98,23,Female,China,Diploma,Blue-collar Worker,12206
+99,35,Non-binary,Germany,High School,Jobless,29200
