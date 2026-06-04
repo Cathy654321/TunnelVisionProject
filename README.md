@@ -15,7 +15,7 @@ This project provides a computational framework that:
 3. Implements an Agent-based Multifaceted Engagement Model (MEM) in which LLM-generated discussion traces seed a Bayesian behavior model, and budget-constrained interventions reshape each user's reading window.
 4. Evaluates **five budget-constrained mitigation strategies** — `add`, `remove`, `update`, `hybrid`, `summarize` — against a `No`-intervention baseline.
 
-The repository releases all source code, the LLM-generated snapshot used in the paper, profile/event configurations, the consolidated results CSV, and the scripts that produce every reported figure and table. This is intended to support **reproducibility** and to let other researchers **learn from, extend, and reuse** the framework.
+The repository releases all source code, the LLM-generated snapshot used in the paper, profile/event configurations, the consolidated results CSV, and the scripts that produce every reported figure and table. This is intended to support **reproducibility** and to let other researchers **learn from, extend, and reuse** the framework. It also includes a real-data validation module, `reddit_exp5/`, which reproduces the framework's findings on real Reddit discussions (**Experiment 5**; see the dedicated section below).
 
 ---
 
@@ -116,7 +116,7 @@ Each script writes its PDFs to `Figures/` by default; the dataset / strategy / b
 ## Environment and Setup
 
 - **Python:** 3.13
-- **Dependencies:** `requirements.txt` (matplotlib, numpy, openai, pandas, pydantic, python-dotenv, requests, tqdm, vaderSentiment).
+- **Dependencies:** `requirements.txt` (contractions, matplotlib, numpy, openai, pandas, pydantic, python-dotenv, requests, scikit-learn, scipy, tqdm, vaderSentiment). The last three (`scikit-learn`, `scipy`, `contractions`) are used by the Experiment 5 module.
 
 ---
 
@@ -180,6 +180,59 @@ Snapshot regeneration (step 1 of the project pipeline above) is only required if
 - The bundled snapshot, event/profile datasets, source code, and `consolidated_results_case.csv` are all included in this repository.
 - Every figure and table in the paper can be reproduced directly from the bundled artifacts without invoking the OpenAI API.
 - Snapshot regeneration (LLM-driven discussion generation) is the only stage that requires an OpenAI API key.
+
+---
+
+## Experiment 5: Real-World Validation on Reddit (`reddit_exp5/`)
+
+`reddit_exp5/` is a self-contained, decoupled module that validates the framework on three real, medium-sized Reddit discussion threads (Pushshift, April 2019). It corresponds to *Experiment 5: Validation on Real-World Reddit Discussions* in the paper. Its Python sources are kept **comment-free** (release build).
+
+The module is decoupled from the rest of the project: it keeps its own `data/`, `figures/`, and `results/`, and reuses the core framework classes (`Event`, `Comment`, `SNTUser`, `SNTPlatform`, `analysis_analyzer.Analyzer`, `utils_consolidate_csvs`) by adding the project root to `sys.path` at import time. The dependency is one-way — the rest of the project imports nothing from it, so it does not affect Experiments 1–4.
+
+
+
+### Datasets
+
+Selected from a reservoir-sampled scan of the dump (medium, focused threads, ~150–700 comments) and validated for robustness: each shows clean aspect-level tunnel vision under NMF-topic aspects + comment-level VADER for every tested topic count K ∈ {10, 12, 14} (sliding window W = 30).
+
+| Paper DS | id | Subreddit | Topic | ρ_ASPE | ρ_conc | Cmts |
+|---|---|---|---|---|---|---|
+| 4 | `bf35w1` | r/FortniteCompetitive | FOV-slider feature debate | −0.66 | +0.68 | 180 |
+| 5 | `bi9svs` | r/environment | "Top 100 companies killing the planet" (climate) | −0.64 | +0.63 | 366 |
+| 6 | `behozy` | r/me_irl | US-vs-other-countries healthcare debate | −0.66 | +0.51 | 217 |
+
+The dataset set lives in `reddit_exp5/reddit_config.py` (`THREADS`, `TITLES`, `SUBREDDITS`); every script reads from there. The datasets are independent — each has its own raw JSON, snapshot, cut point, and per-dataset results.
+
+
+
+### Running Experiment 5
+
+From the project root:
+
+```bash
+# 1. build Event/Comment/SNTUser snapshots with NMF-topic aspects   (deterministic)
+python reddit_exp5/reddit_to_events.py
+
+# 2. ASPE/CASE narrowing figures + cut points                        (deterministic)
+python reddit_exp5/analysis_reddit_tv.py
+
+# 3. seeded Bayesian experiments (one process per dataset, parallelisable)
+python reddit_exp5/Experiments_reddit_main.py --sid bf35w1
+python reddit_exp5/Experiments_reddit_main.py --sid bi9svs
+python reddit_exp5/Experiments_reddit_main.py --sid behozy
+python reddit_exp5/Experiments_reddit_main.py --consolidate
+
+# 4. early-vs-late intervention (per dataset)
+python reddit_exp5/Experiments_reddit_late.py --sid bf35w1   # + bi9svs, behozy
+
+# 5. figures + tables
+python reddit_exp5/reddit_make_figures.py
+
+# 0. (optional, needs the dumps + zstd) re-extract the raw threads
+python reddit_exp5/extract_reddit_datasets.py
+```
+
+Steps 3 and 4 use stochastic Bayesian simulation; the shipped `reddit_exp5/results/` reproduce the exact numbers reported in the paper. Steps 1, 2, and 5 are deterministic (NMF `random_state=0`, VADER, fixed cut logic) and regenerate identical artifacts. Aspects are NMF latent topics labelled by their top terms; sentiment is comment-level VADER. `extract_reddit_datasets.py` reads absolute dump / `zstd.exe` paths at its top — adjust those if the dumps move; everything else is module-relative.
 
 ---
 
