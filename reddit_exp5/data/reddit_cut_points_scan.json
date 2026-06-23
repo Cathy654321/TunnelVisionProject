@@ -1,0 +1,51 @@
+{
+  "bgknkt": {
+    "subreddit": "bayarea",
+    "n_comments": 253,
+    "cut_index": 128,
+    "cut_fraction": 0.506,
+    "rho_aspe_full": -0.4157
+  },
+  "bfvqy1": {
+    "subreddit": "unpopularopinion",
+    "n_comments": 217,
+    "cut_index": 42,
+    "cut_fraction": 0.194,
+    "rho_aspe_full": -0.4072
+  },
+  "bbf7wd": {
+    "subreddit": "newzealand",
+    "n_comments": 173,
+    "cut_index": 100,
+    "cut_fraction": 0.578,
+    "rho_aspe_full": -0.6688
+  },
+  "bct7zc": {
+    "subreddit": "teslamotors",
+    "n_comments": 177,
+    "cut_index": 100,
+    "cut_fraction": 0.565,
+    "rho_aspe_full": 0.3195
+  },
+  "bip3hg": {
+    "subreddit": "vegetarian",
+    "n_comments": 159,
+    "cut_index": 40,
+    "cut_fraction": 0.252,
+    "rho_aspe_full": -0.3491
+  },
+  "bgv8rd": {
+    "subreddit": "Vechain",
+    "n_comments": 159,
+    "cut_index": 95,
+    "cut_fraction": 0.597,
+    "rho_aspe_full": 0.3258
+  },
+  "bix6la": {
+    "subreddit": "PurplePillDebate",
+    "n_comments": 183,
+    "cut_index": 84,
+    "cut_fraction": 0.459,
+    "rho_aspe_full": -0.6476
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "event_id": "bbf7wd",
+  "schema_version": "absa-scan-v1-2026-06-23",
+  "event_title": "r/newzealand: Swastikas and semi-automatics: Auckland gun club neighbours speak out",
+  "method": "absa-acsa-fixed-schema",
+  "sentiment_classes": [
+    "positive",
+    "neutral",
+    "negative"
+  ],
+  "aspects": [
+    {
+      "name": "Vandalism Attribution",
+      "definition": "Who is responsible for the swastika graffiti and threatening sign -- gun-club members versus the protesting residents staging a hoax. Stance is whether one side or the other is credibly the culprit; the aspect names the question of blame/provenance, not any conclusion.",
+      "cues": [
+        "hoax",
+        "false flag",
+        "fabricated",
+        "staged",
+        "drum up support",
+        "tarnish the reputation",
+        "who painted",
+        "perpetrated by the protesting residents"
+      ]
+    },
+    {
+      "name": "Sport Legitimacy",
+      "definition": "Whether IPSC/CQB-style practical shooting with semi-automatic rifles is a legitimate recognised sport or an indefensible activity that should be banned. Evaluates the standing of the recreational activity itself.",
+      "cues": [
+        "legitimate sport",
+        "international recognition",
+        "IPSC",
+        "CQB",
+        "practical shooting",
+        "should be banned",
+        "where do we draw the line",
+        "censorship of recreation"
+      ]
+    },
+    {
+      "name": "Gun Law And Licensing",
+      "definition": "The adequacy and design of New Zealand firearms legislation -- licensing categories (A-cat/E-cat), the MSSA loophole the Christchurch shooter used, magazine restrictions, and whether the post-Christchurch reforms are well-calibrated or overreach. Evaluates the regulatory regime.",
+      "cues": [
+        "E-cat",
+        "A-cat",
+        "MSSA license",
+        "loophole",
+        "high capacity magazines",
+        "legislation",
+        "gun laws",
+        "B endorsement"
+      ]
+    },
+    {
+      "name": "Self-Defence Justification",
+      "definition": "Whether owning or using a firearm for home-defence/home-invasion scenarios is justifiable and lawful under NZ's 'reasonable force' standard. Evaluates the legitimacy of the self-defence use-case for guns.",
+      "cues": [
+        "self defense",
+        "reasonable force",
+        "home invasion",
+        "Crimes Act",
+        "Section 48",
+        "protect yourself",
+        "evacuate vs arm yourself",
+        "gun safe"
+      ]
+    },
+    {
+      "name": "Land-Use And Consent",
+      "definition": "The land-use clash between the shooting range and the pre-existing meditation retreat/residents -- whether the range's consent was appropriate, whose use of the land should prevail, and how community objection weighs against legal compliance. Evaluates the siting/consent dispute.",
+      "cues": [
+        "consent",
+        "resource consent",
+        "RMA",
+        "land use",
+        "local community",
+        "noise complaints",
+        "established retreat",
+        "should buy enough land"
+      ]
+    },
+    {
+      "name": "Neighbour Intimidation",
+      "definition": "The conduct directed at neighbours beyond the graffiti -- gun-club supporters' calls to 'swamp the meeting' and bring guns, cars with armed occupants parked outside homes at night, tooting, and the 'in range' threat. Evaluates the intimidation/harassment behaviour toward neighbours.",
+      "cues": [
+        "intimidation",
+        "swamp the meeting",
+        "bring guns",
+        "in range",
+        "parking outside",
+        "tooting",
+        "guy outside with a gun",
+        "harassment"
+      ]
+    },
+    {
+      "name": "Club Membership Character",
+      "definition": "The composition and character of the gun club's membership -- its ethnic/occupational diversity (cited as ~80% non-white, including Police officers) versus characterisations of shooters as low-intelligence, 'alpha-male tradie', or far-right-adjacent. Evaluates who the club's members are and what they are like.",
+      "cues": [
+        "80% isnt white",
+        "diverse",
+        "Police officers",
+        "demographic makeup",
+        "not the brightest crayons",
+        "alpha male tradie types",
+        "far right",
+        "white nationalist"
+      ]
+    },
+    {
+      "name": "Connection To Christchurch",
+      "definition": "Whether the club's activity is meaningfully linked to or tone-deaf in the shadow of the Christchurch mosque shooting -- shooting semi-autos the day after, flying a flag, versus arguments that the shooter had no link to IPSC ranges. Evaluates the appropriateness/relevance of the activity given the massacre.",
+      "cues": [
+        "shadow of Christchurch",
+        "day after",
+        "mosque shootings",
+        "tonedeaf",
+        "in the shadow",
+        "destroyed my sense of identity",
+        "Christchurch shooter",
+        "radicalised"
+      ]
+    },
+    {
+      "name": "Media Credibility",
+      "definition": "The trustworthiness and bias of the reporting outlet (the Spinoff) and the media's framing of the story versus social media's countervailing role. Evaluates the source's reliability.",
+      "cues": [
+        "Spinoff",
+        "this article in particular does appear OK",
+        "racist trash",
+        "media always has a bias",
+        "believing what is written",
+        "RNZ",
+        "ODT",
+        "stuff or the herald"
+      ]
+    },
+    {
+      "name": "Debate Conduct",
+      "definition": "The civility and quality of the argument within the thread itself -- accusations of personal attacks, name-calling, straw-manning, and amateur psychoanalysis versus claims of legitimate concern. Evaluates how participants are conducting the discussion.",
+      "cues": [
+        "personal attacks",
+        "belittling",
+        "straw man",
+        "snowflake",
+        "go talk to a councilor",
+        "attack the person than the idea",
+        "hateful behaviour",
+        "rage into the void"
+      ]
+    }
+  ]
+}

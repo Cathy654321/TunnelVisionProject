@@ -1,0 +1,322 @@
+"idx","comment_id","author","created_utc","aspects","sentiments","scores","body"
+"0","ekt8b3k","croninsiglos","1555178461","Replacement Affordability | Battery Manufacturing Cost And Energy Density","negative | negative","-1.0 | -1.0","Four modules = $20K That's crazy. 
+
+I thought Tesla's $/kWh was supposed to be cheaper than the competition. One would hope, by then, each module has double the energy capacity."
+"1","ekt8diu","michellbak","1555178507","Battery Manufacturing Cost And Energy Density | Claim Clarity And Interpretation | Module-Level Vs Pack-Level Strategy","positive | neutral | neutral","1.0 | 0.0 | 0.0","It's unclear if he means at current time or in the future, but... Assuming the price range represents the difference between Standard Range and Long Range, that's equivalent to $100-$90.9 per kWh (50-55 kWh battery) or $94.6 per kWh (74 kWh battery) at the module level. That's massive news, if true.
+
+It's important to mention that the entire battery pack is made up of more than modules, which is why he's specifically mentioning the cost of modules and not the full pack. The full Model 3 pack also contains stuff like the charger, DC-DC converter and BMS.
+
+Edit: This appears to be in line with Tesla's earlier comments on the matter: [https://cleantechnica.com/2018/06/09/100-kwh-tesla-battery-cells-this-year-100-kwh-tesla-battery-packs-in-2020/](https://cleantechnica.com/2018/06/09/100-kwh-tesla-battery-cells-this-year-100-kwh-tesla-battery-packs-in-2020/)"
+"2","ekt8iri","michellbak","1555178609","Claim Clarity And Interpretation","positive","1.0","Pretty sure he means **all** modules."
+"3","ekt8j8t","SparkySpecter","1555178618","Module-Level Vs Pack-Level Strategy | Claim Clarity And Interpretation","positive | neutral","1.0 | 0.0","Module, not pack."
+"4","ekt8l27","teslacometrue","1555178653","Claim Clarity And Interpretation","neutral","0.0","Is that for all the modules?"
+"5","ekt8lox","Phaedrus0230","1555178665","Claim Clarity And Interpretation","positive","1.0","I didn't read that as 5k to 7k per module, but rather to replace all the modules while reusing the pack/housing."
+"6","ekt8lpn","SparkySpecter","1555178666","Claim Clarity And Interpretation | Module-Level Vs Pack-Level Strategy","positive | positive","1.0 | 1.0","Modules. Not pack. Larger batteries simply have more modules."
+"7","ekt8n4c","SparkySpecter","1555178692","","","","Per each."
+"8","ekt8q9z","willatpenru","1555178754","Battery Longevity And Degradation | Musk Credibility And Timeline Realism","neutral | neutral","0.0 | 0.0","Maybe in 10 years when the packs start to wear out?"
+"9","ekt8qqz","croninsiglos","1555178764","Claim Clarity And Interpretation","positive","1.0","read it again :)
+
+&gt; Replacing **modules** (not pack) will only cost $5k to $7k."
+"10","ekt8skv","croninsiglos","1555178798","Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","positive | neutral","1.0 | 0.0","He explicitly says not the pack though. I tweeted him to see if he'll clarify."
+"11","ekt8wfu","keco185","1555178870","Module-Level Vs Pack-Level Strategy | Battery Manufacturing Cost And Energy Density","positive | negative","1.0 | -1.0","Because the pack includes the BMS and other electronics which are expensive"
+"12","ekt8wkk","Phaedrus0230","1555178872","Musk Credibility And Timeline Realism | Replacement Affordability | Battery Longevity And Degradation","negative | neutral | positive","-1.0 | 0.0 | 1.0","It's forward looking, so take it with a grain of salt. That's elons hopeful price for the future when an average model 3 has been used for most of it's useful life already. Think 8-10 years from now minimum."
+"13","ekt8x89","michellbak","1555178884","","","","The pack contains more than just the modules. See my comment below."
+"14","ekt92u6","michellbak","1555178985","","","","No way."
+"15","ekt94y7","michellbak","1555179025","","","","Yes."
+"16","ekt9530","SparkySpecter","1555179028","Service Feasibility And Effort","positive","1.0","Easily. Especially with labor costs."
+"17","ekt9btt","michellbak","1555179155","Service Feasibility And Effort | Module-Level Vs Pack-Level Strategy","positive | positive","1.0 | 1.0","Again, no way. There are four modules in a LR Model 3 battery pack. It's an easy swap, easily done in less than a day."
+"18","ekt9eqc","croninsiglos","1555179211","Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","negative | neutral","-1.0 | 0.0","Yeah, I hope that's what he means, but it'd be nice if he was explicit."
+"19","ekt9fad","BS_Is_Annoying","1555179222","Replacement Affordability | Battery Manufacturing Cost And Energy Density | Musk Credibility And Timeline Realism","negative | neutral | negative","-1.0 | 0.0 | -1.0","That's probably about right. If it costs them about 2-3k per module, they need to mark it up by twice. That's standard business practice.
+
+Contrary to popular belief on this sub, Tesla is a business focused on bringing cash out of your pocket and into their pocket."
+"20","ekt9i83","buttakisheadakis","1555179278","Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","negative | negative","-1.0 | -1.0","He said module""s"" which could mean all but didn't say $5-$7k ""total""....and this is how rumor Mills begin lol. 
+
+I wonder if he knows he not being clear. Or typing so fast during his poop breaks he doesn't bother to fix it."
+"21","ekt9un6","michellbak","1555179526","Battery Manufacturing Cost And Energy Density | Musk Credibility And Timeline Realism","positive | neutral","1.0 | 0.0","They're expecting to reach $100 per kWh at the pack level next year, so it's not too far away."
+"22","ektab7q","wsxedcrf","1555179838","Real-World Range And Efficiency | Replacement Affordability","negative | positive","-1.0 | 1.0","I regret getting SR+ 240 mi, and not getting LR 324mi, can I pay $7k to replace my battery now?"
+"23","ektauly","Brad_Wesley","1555180197","Musk Credibility And Timeline Realism","negative","-1.0","So you agree then that the massive discounts and price cuts are a result d lack of demand rather than Elon being a nice guy?"
+"24","ektb19l","matt2001","1555180328","Replacement Affordability | Battery Longevity And Degradation | Cost Versus Buying A New Or Used Car","positive | positive | positive","1.0 | 1.0 | 1.0","That is good news. I project my pack to last 10 to 15 years at 20k miles/year. I will leave it in my will for my grandkids as I'll be 80 years old at that time.  
+
+Of note, [Nissan in Japan is charging $2,850 for a refurbished 25kWh pack - 1/3 the size of my model 3.](https://electrek.co/2018/03/26/nissan-leaf-battery-pack-replacement-program/)"
+"25","ektb2kz","Vintagesysadmin","1555180353","Replacement Affordability | Service Feasibility And Effort","positive | neutral","1.0 | 0.0","That includes labor which is probably half that price."
+"26","ektbi6o","ShaqLuvsTesla","1555180649","Service Feasibility And Effort | Module-Level Vs Pack-Level Strategy | Musk Credibility And Timeline Realism","negative | negative | negative","-1.0 | -1.0 | -1.0","Except it’s not practical to replace modules only. It’s expensive to build back the sealed integrity of the pack. It also follows that if a module shows degradation, the other modules would be statistically similar. Tesla needs to stop this dishonest claim right now that people can come in for a module replacement. That’s Elon talk. What’s foreseeable and has been demonstrated is pack replacement. The price point just needs to become profitable. Replacement at module level, way more expensive to be practical."
+"27","ektbswh","landonianb","1555180852","Claim Clarity And Interpretation","negative","-1.0","Still unclear... It's plural, so it can go either way."
+"28","ektbvgl","landonianb","1555180899","","","","This is just pure speculation though. You don't know and neither do I"
+"29","ektbwg3","SparkySpecter","1555180916","","","","Agreed"
+"30","ektbyc0","Bad-Science","1555180952","","","","4 modules per pack."
+"31","ektc7yr","Bad-Science","1555181132","Service Feasibility And Effort | Replacement Affordability","negative | neutral","-1.0 | 0.0","After watching Rich Rebuilds, it looks like quite a PITA to access the modules. Anybody know what the shop time (equivelant to a motors manual time) is estimated for a module replacement?"
+"32","ektcp1c","michellbak","1555181457","","","","Exactly :-)"
+"33","ektcu1g","becoolbasf","1555181546","Service Feasibility And Effort | Musk Credibility And Timeline Realism","positive | positive","1.0 | 1.0","My guess is same day but probably 3-5 hours depending on their load. No worry to think about it right now. Also it’s confirmed that mobile service would be able to do this."
+"34","ektd5j2","thet0ast3r","1555181743","Musk Credibility And Timeline Realism | Replacement Affordability","negative | neutral","-1.0 | 0.0","maybe both. keeping the competition far away is another effect of prematurely reducing prices."
+"35","ektdwqr","Delusional_Brexiteer","1555182234","Claim Clarity And Interpretation | Replacement Affordability | Service Feasibility And Effort","positive | neutral | positive","1.0 | 0.0 | 1.0","**In fairness to not including the pack in the price**, the same one could be used, just with new modules/cells, as only the cells involve energetic chemical *(read: inherently shorter-lived)* components as opposed to plastics &amp; steel.
+
+Or more likely, it is still swapped out due to connections and waterproofing etc, just using the same parts, time staggered while they replace the cells in the removed, earlier one, to be put into someone else's car at a later point.
+
+e.g:
+
+* Car A has battery pack 1 removed, a remade *(i.e, refurbished/re-celled/re-assembled)* battery ""0"" is installed. Car A leaves after that session of replacement.
+* Battery pack 1 re-made
+* Car B arrives, has battery pack 2 removed, battery pack 1 installed, Car B leaves.
+* Battery pack 2 re-made
+* Car C turns up, battery pack 3 removed, battery pack 2 is installed, Car C leaves.
+
+etc."
+"36","ektdxv5","sziehr","1555182254","Module-Level Vs Pack-Level Strategy | Replacement Affordability | Service Feasibility And Effort","positive | positive | neutral","1.0 | 1.0 | 0.0","Think of it like a core charge. They will give you a new pack but they will re-cycle the old pack. This makes perfect sense.  I expect the whole ordeal to cost about 8k per LR car. The labor to swap the pack at the service center is not that much.  The pack being re-built at the factory is already tooled for it and can reseal the pack.   I think your right if they tried to do this out in the field we would see some serious labor costs and not uniform work."
+"37","ektefte","montyprime","1555182595","Module-Level Vs Pack-Level Strategy | Service Feasibility And Effort | Replacement Affordability","negative | negative | neutral","-1.0 | -1.0 | 0.0","They will probably take your dead pack and install a refurbished one with new modules.  Then refurbish your pack and it will go to the next guy.
+
+Pretty standard in autoparts, I doubt they are having individual service centers replace the modules and reseal the packs."
+"38","ektfk4a","izybit","1555183324","Cost Versus Buying A New Or Used Car","positive","1.0","If you are willing to pay $7k you can sell your car and buy another one(inventory). With the federal and state rebates priced in you will pay less than $7k."
+"39","ektfnx3","hmspain","1555183390","Service Feasibility And Effort | Musk Credibility And Timeline Realism","negative | negative","-1.0 | -1.0","A day does not sound easy to me :-).  I thought Tesla dropped the ""swap batteries at a service station instead of charging"" thing due to the difficulty of getting the battery pack out given the advanced cooling."
+"40","ektg3zu","izybit","1555183657","Battery Longevity And Degradation | Replacement Affordability | Battery Manufacturing Cost And Energy Density","positive | negative | negative","1.0 | -1.0 | -1.0","To add, the battery has an 8-year warranty and in 2026 the price will be way lower than that.
+
+Factoring in the millions of used and scrapped Model 3s that will be available at that time it's impossible the whole battery will cost $20k."
+"41","ektggdg","izybit","1555183878","Service Feasibility And Effort","negative","-1.0","Rich has no idea how to take a pack apart efficiently.
+
+With proper knowledge and tools it's very easy to take it apart but putting it back together will be quite the challenge (unless you have specialized tools and materials)."
+"42","ekthd00","buttakisheadakis","1555184480","Musk Credibility And Timeline Realism","negative","-1.0","That would make sense, but when has Tesla ever done what makes sense"
+"43","ekthngf","tablepennywad","1555184666","","","","What hapend to yhe robot replacing batter packs in 30 seconds. Is that scrapped in the model 3?"
+"44","ekti0pl","tau-lepton","1555184906","Replacement Affordability | Battery Longevity And Degradation","positive | positive","1.0 | 1.0","This is pretty big news IMHO, it greatly alleviates concern for many of those that put 20,000 miles per year on their car."
+"45","ekti3zn","whatsasyria","1555184967","","","","Yeah this is great. Makes me not care about all then price change the."
+"46","ekti4b9","tau-lepton","1555184973","Replacement Affordability | Battery Manufacturing Cost And Energy Density","neutral | neutral","0.0 | 0.0","Meh, the empty pack is under 20 percent the cost of the entire full pack."
+"47","ektieqp","michellbak","1555185151","Module-Level Vs Pack-Level Strategy | Service Feasibility And Effort | Musk Credibility And Timeline Realism","positive | positive | positive","1.0 | 1.0 | 1.0","I did say less than a day :-)
+
+Ideally, they'll be able to just swap in a full refurbished battery pack, and then deal with opening the old pack, replacing modules etc. when the customer isn't waiting. The old pack will then be refurbished and can be used to replace another pack in the future. I think a simple swap can be done in about an hour if they have a replacement pack waiting."
+"48","ektjhp0","Slammedtgs","1555185846","Claim Clarity And Interpretation | Battery Longevity And Degradation | Module-Level Vs Pack-Level Strategy","positive | neutral | neutral","1.0 | 0.0 | 0.0","One, it was modules not packs and they are most little reconditioned and not new,"
+"49","ektjw7s","manbearpyg","1555186106","","","","You can call them massive price cuts when they take $7k-$10k off the price of a $30k car like every ICE dealership on the planet at the end of the model year.  Jesus christ give it a rest, have you seen any Tesla commercials on TV or adverts on the web?  No?  Huh, maybe they aren't as demand constrained as you wished they were."
+"50","ektkx5s","GeoffSherrill","1555186813","Cost Versus Buying A New Or Used Car | Replacement Affordability | Module-Level Vs Pack-Level Strategy","positive | negative | positive","1.0 | -1.0 | 1.0","Some people have customized their cars and don't want to go through the hassle of a trade in. Even at the expense of spending more for the battery.
+
+I'm in this very situation with my AWD and wanting a P3D-. I'd rather spend more to keep mine and upgrade than to trade in for a P3D."
+"51","ektkzbp","izybit","1555186855","Cost Versus Buying A New Or Used Car","positive","1.0","You could try selling it privately."
+"52","ektl1ez","flshr19","1555186893","Battery Manufacturing Cost And Energy Density | Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","positive | neutral | positive","1.0 | 0.0 | 1.0","So $7K/75kWh=$93.33 per kWh or even better $5K/75kWh = $66.67 per kWh. Is Elon saying that Tesla has smashed through the very challenging resistance level ($100/kWh) that's been the Holy Grail of Li-ion battery developers for the past decade or so? I'm assuming that ""battery module"" means an entire Model 3 battery, not just part of one. And I assume he means a brand new Model 3 battery with fresh cells, not a refurbished one.
+
+ If so, that news is better than what happened last Thursday at SpaceX and Falcon Heavy. Elon is on a roll!!"
+"53","ektl4iv","GeoffSherrill","1555186951","Cost Versus Buying A New Or Used Car","positive","1.0","I have no interest in selling my car. I'd rather pay more to keep it."
+"54","ektl7i8","Nametab","1555187009","Module-Level Vs Pack-Level Strategy | Replacement Affordability","positive | neutral","1.0 | 0.0","That’s a very detailed way of explaining how “core charges” work for most major ICE car parts."
+"55","ektl7vc","workrelatedstuffs","1555187016","Module-Level Vs Pack-Level Strategy | Musk Credibility And Timeline Realism","negative | neutral","-1.0 | 0.0","Tesla doesn't repair packs at the module level, or modules at the cell level, why would they offer module replacement instead of just swapping the packs?
+
+The only thing I can think of is that the pack designs will change too much and be physically incompatible."
+"56","ektm1bc","404davee","1555187554","Claim Clarity And Interpretation","negative","-1.0","Module is not a pack."
+"57","ektm4de","404davee","1555187611","Replacement Affordability | Module-Level Vs Pack-Level Strategy","negative | neutral","-1.0 | 0.0","Four modules per Model 3 pack. So if you have $28k lying around, go for it I guess."
+"58","ektmj5k","Brad_Wesley","1555187883","","","","Oh I didn't realize Tesla had new model years coming out.  Thanks"
+"59","ektmtvq","159conor","1555188091","Musk Credibility And Timeline Realism | Module-Level Vs Pack-Level Strategy","neutral | neutral","0.0 | 0.0","It's possible that includes the residual value of the old pack."
+"60","ektna1j","blackbearrrr","1555188406","Replacement Affordability | Battery Longevity And Degradation | Cost Versus Buying A New Or Used Car","positive | neutral | negative","1.0 | 0.0 | -1.0","I went to the tesla dealer the other day and he said it would be around 18k to replace the battery modules as a whole at the moment.  (The model 3s amount of batteries are an insanely good deal given the cars price).  But the odds of you needing to do that are low and usually the warranty will catch it before then."
+"61","ektnadu","Bad-Science","1555188414","Service Feasibility And Effort | Claim Clarity And Interpretation","negative | neutral","-1.0 | 0.0","&gt;it's very easy to take it apart but putting it back together will be quite the challenge
+
+That describes every single project I've ever taken on."
+"62","ektnkg1","izybit","1555188606","","","","Same here. lol"
+"63","ekto465","Ihaveamodel3","1555188961","Claim Clarity And Interpretation | Replacement Affordability | Module-Level Vs Pack-Level Strategy","negative | neutral | neutral","-1.0 | 0.0 | 0.0","Read the tweet. It’s 5-7k per module. There are 4 modules in the Model 3. 
+
+This is also estimated consumer price, not Tesla manufacturing price.
+
+Edit: Maybe not. Who knows. Elon’s isn’t known for being descriptive in tweets."
+"64","ektoj2d","aneth0r","1555189224","Module-Level Vs Pack-Level Strategy | Replacement Affordability","positive | positive","1.0 | 1.0","That's the point. Very unnecessary to replace the entire pack when you can replace the most degraded module and get a big increase for cheaper."
+"65","ektopkt","aneth0r","1555189345","","","","Lotsa talk and no backing."
+"66","ektos78","aneth0r","1555189394","","","","2 are smaller, which is probably included in the range. The ones with less cells on the lower end, the two in the middle with more cells on the higher."
+"67","ektoywt","RogerDFox","1555189519","Battery Longevity And Degradation | Corrosion And Body Durability","positive | negative","1.0 | -1.0","The Tesloop taxi service in California has a model S with 13% battery degradation after 450 K.
+  The real issue will be how long does it take for the car to rust away.
+
+Because battery life may end up in the area of decades."
+"68","ektp2dn","Delusional_Brexiteer","1555189584","","","","&gt;why would they offer module replacement instead of just swapping the packs?
+
+I said the opposite in my comment actually...  
+
+
+And also, can you not be one of those people who keep sealioning all the time? cheers."
+"69","ektpab7","RogerDFox","1555189726","Battery Longevity And Degradation","positive","1.0","Possibly 25 to 30 years.
+
+Tesloop has a model S taxi with 450 K with 13% battery degradation."
+"70","ektqlev","Setheroth28036","1555190577","Claim Clarity And Interpretation | Replacement Affordability | Module-Level Vs Pack-Level Strategy","negative | negative | negative","-1.0 | -1.0 | -1.0","This confuses me because a few months ago Tesla quoted me $13k for an entirely new battery PACK, which includes the PCS and al other electronics under the penthouse.  Now Elon is saying $5k per MODULE, of which there are 4?  At that point when I have a bad module I think I’d rather replace the whole pack, since I’m sure the other modules won’t be far behind."
+"71","ektrlwg","YukonBurger","1555191263","Replacement Affordability | Cost Versus Buying A New Or Used Car","negative | negative","-1.0 | -1.0","Oof.  $20-28k is more than I had anticipated for a pack. 🤤"
+"72","ektrn5h","Right3winger","1555191287","Claim Clarity And Interpretation | Module-Level Vs Pack-Level Strategy","negative | neutral","-1.0 | 0.0","Some are getting Per module confused with the entire battery pack. This article breaks down the battery architecture. There are four modules.  [https://electrek.co/2017/08/24/tesla-model-3-exclusive-battery-pack-architecture/](https://electrek.co/2017/08/24/tesla-model-3-exclusive-battery-pack-architecture/)"
+"73","ektrs0f","YukonBurger","1555191381","","","","Doesn't read that way"
+"74","ektrsbh","YukonBurger","1555191387","","","","Sry"
+"75","ektrtw2","YukonBurger","1555191418","","","","Well, again that is certainly the way it reads"
+"76","ektrxsw","Alebringer","1555191496","Claim Clarity And Interpretation","negative","-1.0","Modules. Not one module."
+"77","ekttpey","madmax_br5","1555192758","Claim Clarity And Interpretation | Replacement Affordability","positive | neutral","1.0 | 0.0","It's for all the modules dude. Whole pack currently costs like $10k."
+"78","ekttw3t","secondlamp","1555192893","Battery Longevity And Degradation | Module-Level Vs Pack-Level Strategy","neutral | neutral","0.0 | 0.0","Doesn’t the battery management system spread out the load (and thus wear) of driving and charging as evenly as possible? Which would mean no single module would be much more degraded than the others. 
+
+What am I missing? Leave some of the degraded modules in?"
+"79","ekttwr0","manbearpyg","1555192906","Cost Versus Buying A New Or Used Car | Musk Credibility And Timeline Realism | Real-World Range And Efficiency","positive | negative | positive","1.0 | -1.0 | 1.0","If I bought the exact same spec Model 3 today as I did last year, the price after tax rebate is $51,950 and it doesn't include lifetime LTE connectivity.  I paid $51,500.  So yeah, I'm really crying over your imaginary ""massive discounts and price cuts"".    
+
+
+Meanwhile ICE dealers are discounting cars by 20+% simply because of a rollover to a new model year with different knobs on the radio.   And yet my Model 3 gets the latest feature updates all the time.  for free.
+
+&amp;#x200B;
+
+Troll harder, kid."
+"80","ektufdc","yeonik","1555193285","Battery Longevity And Degradation | Claim Clarity And Interpretation","negative | neutral","-1.0 | 0.0","On paper yes, all the modules will be degraded the same. In reality, each cell is constructed a bit differently, and reacts to load differently. You’ll have different levels of degradation - and yours will be unique to you, others may never have degradation or they could have twice as much.
+
+It’s the same as traditional combustion engines having different lifespans - the real world is hell on engineered lifespan predictions."
+"81","ektulbb","superdigua","1555193412","","","","The quality of those cells are slightly different."
+"82","ektumdo","matt2001","1555193435","Service Feasibility And Effort","positive","1.0","I had the mobile tech at my house a few weeks ago and he said that they have replaced defective battery modules at mobile locations."
+"83","ekturcv","wsxedcrf","1555193538","Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","positive | negative","1.0 | -1.0","Our marketing lord elon musk would tweet in public that a $35k car cost $28k to replace battery modules?  Read again please
+
+&gt;Replacing modules (not pack) will only cost $5k to $7k.
+
+To me, it means replacing all the modules in the battery pack, so controller stays, the battery chassis stays, the actual battery modules (with a s) will cost $5k to replace."
+"84","ektutu0","aneth0r","1555193590","Module-Level Vs Pack-Level Strategy | Battery Longevity And Degradation","positive | neutral","1.0 | 0.0","In theory, yeah, that should happen. But it's not a perfect world.
+
+Also, if individual cells go bad, they pop and disconnect from the module, while the rest still continue to work. So if that happens in one module more than the others, that would be a good candidate for replacing."
+"85","ektv1fj","404davee","1555193740","Cost Versus Buying A New Or Used Car","positive","1.0","Fair enough; that’d be awesome if you’re right. If so I’ll have my 3 ~forever vs the mere 15-20 years that I expect to have her."
+"86","ektv491","Mantaup","1555193797","Replacement Affordability | Battery Manufacturing Cost And Energy Density","positive | positive","1.0 | 1.0","$7,000 for 50kWh to 75kWh for the Model 3 or the same price for 13.5kWh for the Powerwall.
+
+I know that the Powerwall isn’t just cells and is a complete self contained unit but the Model 3 batteries are going to make a great home battery system one day."
+"87","ektv855","Brad_Wesley","1555193877","","","","Have you seen Model S prices?"
+"88","ektwbo7","pinaklonkar","1555194724","","","","Why do you regret it?"
+"89","ekty0gz","kramer318","1555195883","Replacement Affordability | Battery Longevity And Degradation | Cost Versus Buying A New Or Used Car","positive | positive | neutral","1.0 | 1.0 | 0.0","If my 8 year old Model 3 has a drivetrain that can run 1,000,000 miles and I can replace the battery for that amount, I may just keep my model 3 for quite a long time.  But who knows what the tech will be like 8 years from now?  They may easily have 600 mile range batteries at that price.  Can't wait to see what the future holds."
+"90","ekty6l4","wsxedcrf","1555196000","Real-World Range And Efficiency | Battery Longevity And Degradation","negative | neutral","-1.0 | 0.0","Before I bought it, I think I am never going to drive 200mi a day, so 240 using the battery between 10% to 90% is plenty.  A few days after having the car, I did one long trip (round trip 60mi) and two short ones (round trip 16ml), a total of around 90mi, my mileage left on the car was 65mi.  I still want to go to the outlet mall and dinner that night which was 30mi.  It was a slightly colder day 45F, but what I didn't know before buying the car is that the car reporting 200mi left doesn't mean you can drive 200mi, it has 65mi left after driving for 90mi.  That day I sign up for teslafi to find out all the factors of efficiency.  So cold weather takes a big hit on efficiency.  Highway speed at 80mi also hurt efficiency.   A lot of people go ""Oh, you should crank down the heat and turn on heated seat"", yeah, I got the SR+, there is no heated seat at the back for my kids.  Some people goes, don't drive at 80mi, but the flow of the highway is at least 70mph, I can go with 70mph but that would still hurt efficiency.   Our past winter was horrible with polar vortex, so I am totally see my 240mi car using between 10% to 90% to be capable of only 96mi in brutal winter, 150mi in chilly spring and fall, and 194 in the summer.  
+
+&amp;#x200B;
+
+96mi is really not what I expect, i though it'll take only 30% off in the coldest days which is not the case"
+"91","eku2fo0","swanny101","1555198918","","","","At least the videos I’ve watched it it has been scrapped unless the didn’t have a clue on what they were doing."
+"92","eku3t4d","TyrannicalWill","1555200006","Replacement Affordability | Battery Manufacturing Cost And Energy Density | Cost Versus Buying A New Or Used Car","positive | positive | positive","1.0 | 1.0 | 1.0","So around the time when a conventional ICE will fail, you can just replace the battery modules for a fraction of the cost of a new engine and not put a penny into gas. And by the time that occurs for most drivers it will probably be even cheaper to manufacture due to technological advances. This should minimize the depreciation of the M3. Sounds like a great ROI for prospective car buyers."
+"93","eku402f","jrherita","1555200166","","","","I wish Nissan offered that price in the US.."
+"94","eku49iq","azntorian","1555200392","Battery Longevity And Degradation","positive","1.0","Not to say the battery packs are not amazing and last a long time. I was aware they had a 450-500k car but they switched battery packs around 300k miles. wondering if this was the same car or different car.  
+
+While there only a few cars above 300k miles.  I don’t believe there any cases of over 15% degradation."
+"95","eku501a","pinaklonkar","1555201030","Battery Longevity And Degradation | Battery Manufacturing Cost And Energy Density","negative | positive","-1.0 | 1.0","I see. That’s a bummer. I have the 240 mile SR+ but I’m going to be living in the desert so hopefully I won’t regret it as much — I am almost certain that within just a few years they’ll figure out a way to add a bigger battery in this car for much cheaper."
+"96","eku50n8","Davis_404","1555201044","Corrosion And Body Durability | Real-World Range And Efficiency","neutral | neutral","0.0 | 0.0","Pretty long for S and X: they're built of aluminium. 3 is steel, so interested to see how long before Chicago winter salt eats at it."
+"97","eku5tmv","wsxedcrf","1555201733","Real-World Range And Efficiency","positive","1.0","I think you are fine, spring is warming this week with a few days of over 70F, the efficiency is awesome."
+"98","eku5zhs","pinaklonkar","1555201876","Real-World Range And Efficiency | Cost Versus Buying A New Or Used Car","negative | neutral","-1.0 | 0.0","After we complete our 2300 mile trip from east to west in M3, we don’t plan on using the Tesla a lot. Long drives will mostly be in Prius. I do sometimes think why I didn’t put in another $8k and got the 70 miles and AWD, but you can’t sell your shirt."
+"99","eku68k9","wsxedcrf","1555202096","Real-World Range And Efficiency | Cost Versus Buying A New Or Used Car | Replacement Affordability","negative | negative | neutral","-1.0 | -1.0 | 0.0","Hey, you have the same doubt.  The SR+ will handle my monday to friday just fine,  Just that weekends with multiple destinations in the cold would be problematic.  I wish someone game me a lecture before buying the car.  it was a $10k difference for me to get AWD, and the regretful thing is my wife did permit me to buy the AWD, just that I didn't want to spend the extra $10k"
+"100","eku73us","bittabet","1555202843","Replacement Affordability","negative","-1.0","$5-$7k for a single module is pretty pricey!"
+"101","eku7cqi","aneth0r","1555203043","Replacement Affordability | Cost Versus Buying A New Or Used Car","positive | positive","1.0 | 1.0","Well, would you rather shell out $18-$35k for a new vehicle? Or get back up to 25% range per $5k."
+"102","eku7l8i","HighVs","1555203235","Claim Clarity And Interpretation | Replacement Affordability","positive | neutral","1.0 | 0.0","It pretty clear that 5-7k is total cost and simple maths proves it."
+"103","eku8bsm","RogerDFox","1555203791","Corrosion And Body Durability","negative","-1.0","Yeah I'm in New York, and New England are road see a lot of salt. And that salt tends to eat away brake lines and strut towers."
+"104","eku8dhq","monkeybusiness124","1555203829","","","","They don’t make or sell P3D- anymore though. So how would you do that?"
+"105","eku9bp8","badcatdog","1555204614","","","","No, you are thinking of ""Bricks""? All T3 packs have 4 modules each."
+"106","eku9o13","badcatdog","1555204904","Claim Clarity And Interpretation | Battery Manufacturing Cost And Energy Density","positive | positive","1.0 | 1.0","But it could mean *All modules in a pack*.
+
+For example $7k / 75kwh = $93.3/kwh which is about cost."
+"107","eku9r3d","badcatdog","1555204975","Claim Clarity And Interpretation","neutral","0.0","But it could mean *All modules in a pack*."
+"108","eku9rl0","badcatdog","1555204987","Claim Clarity And Interpretation | Battery Manufacturing Cost And Energy Density","positive | positive","1.0 | 1.0","But it could mean *All modules in a pack*.
+
+For example $7k / 75kwh = $93.3/kwh which is about cost."
+"109","ekuaxrv","rich000","1555205947","Real-World Range And Efficiency | Corrosion And Body Durability","positive | neutral","1.0 | 0.0","Yeah, you do have to keep in mind that you get a lot of California thinking in Tesla forums.
+
+I actually saw a recommendation about getting LR for winter (I'm in the Northeast), so that pushed me over the edge.  That, and the better audio, and just looking at a map at the sorts of day trips that become possible without recharging."
+"110","ekub2ap","rich000","1555206056","Service Feasibility And Effort | Module-Level Vs Pack-Level Strategy","positive | positive","1.0 | 1.0","Do you need to actually take it apart to replace it?
+
+Seems like the simplest strategy would be to field-swap the entire thing, then ship the old one for salvaging to a facility optimized to disassemble, re-certify, and reassemble them (or turn them into Powerwalls or whatever)."
+"111","ekub48h","badcatdog","1555206102","","","","Source?"
+"112","ekub6dr","Pats15","1555206155","Musk Credibility And Timeline Realism","negative","-1.0","Scaling that to Elon time that's sometime in 2050s?"
+"113","ekub6ef","badcatdog","1555206155","Claim Clarity And Interpretation","negative","-1.0","Modules, not Module."
+"114","ekubarr","badcatdog","1555206260","Claim Clarity And Interpretation | Replacement Affordability","positive | negative","1.0 | -1.0","Yes it does, but it is a tad ambiguous.
+
+For a single module it would be ~4x too high a price, and pwople would only do it with insurance."
+"115","ekubfvi","badcatdog","1555206377","Claim Clarity And Interpretation","positive","1.0","That says ""modules"" not ""a module""."
+"116","ekubh1a","BS_Is_Annoying","1555206404","","","","Haha yeah. The$50k market is a lot smaller than the $40k market."
+"117","ekubjqi","niktak11","1555206468","Claim Clarity And Interpretation","neutral","0.0","""Replacing modules (not pack) will only cost $5k to $7k."""
+"118","ekuc6q0","vertigo3pc","1555207000","","","","Most state rebates require you keep your vehicle for a few years, and if you sell it, you need to notify them and potentially repay part of it."
+"119","ekud0h0","GeoffSherrill","1555207696","","","","I don't understand your question? An AWD is a software locked P3D- so by unlocking the AWD you get a P3D-"
+"120","ekudxsw","TwileD","1555208437","Claim Clarity And Interpretation","positive","1.0","He said ""replacing modules"" would be 5-7k, not ""replacing a module"". He never said per or each."
+"121","ekue71j","monkeybusiness124","1555208645","Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","negative | negative","-1.0 | -1.0","Oh I see what you mean, you want to pay 7k to unlock up to a P3D-  
+
+Makes sense, yea I have a P3D-  
+
+I thought you meant trade in for something they offered like the other person suggested. Not a software unlock they don’t offer and have never mentioned offering."
+"122","ekuecsy","GeoffSherrill","1555208767","Cost Versus Buying A New Or Used Car | Musk Credibility And Timeline Realism | Replacement Affordability","negative | neutral | neutral","-1.0 | 0.0 | 0.0","Exactly. I love my AWD. Already customized it and don't want to sell it or trade in. Really want a P3D- and would have gotten them had the price been what it is now earlier last year. So I'm left in a crappy position where I'm really only willing to get one if Tesla decides to offer an unlock which there is no garuntee they ever will.
+
+Just sucks for me and I'm butt hurt about it lol"
+"123","ekueerz","kazedcat","1555208808","Battery Longevity And Degradation | Module-Level Vs Pack-Level Strategy","negative | negative","-1.0 | -1.0","The problem is if you have one bad module the rest is half degraded. When you replace that bad module with new module. The new module will get hammered and will have very steep degradation. Your new module will have reduce lifespan. The more degraded the rest of the module are the greater the reduction in your new modules life span. So if the whole pack is almost fully degraded replacing only one module is just wasting your money. That new module will be old module very quickly."
+"124","ekuflfd","wiredtobeweird","1555209688","Replacement Affordability | Module-Level Vs Pack-Level Strategy | Musk Credibility And Timeline Realism","positive | positive | positive","1.0 | 1.0 | 1.0","Would pay 8K to shave 1.2s from my AWD variant. Elon plis."
+"125","ekufsn4","GeoffSherrill","1555209843","","","","Plz Elon"
+"126","ekugtqu","Roses_and_cognac","1555210640","Battery Longevity And Degradation | Real-World Range And Efficiency","positive | positive","1.0 | 1.0","They have a fleet, the first one was switched at 300k with no problems because even Tesla wanted to learn how well they're keeping up.  They have other cars with equally high miles.  The owner has blogged about his pleasure at how well they hold up supercharging to 100% every day."
+"127","ekugxoo","Roses_and_cognac","1555210730","Module-Level Vs Pack-Level Strategy | Battery Longevity And Degradation | Replacement Affordability","positive | positive | positive","1.0 | 1.0 | 1.0","That's why replacing modules is better.  Even degradation should make batteries last decades.  Uneven problems mean replacing the damaged one is cheaper than a pack replacement."
+"128","ekuh3yc","Roses_and_cognac","1555210876","Battery Manufacturing Cost And Energy Density | Replacement Affordability","positive | positive","1.0 | 1.0","Are they 20kwh modules?  That's a. Astounding price in that case!"
+"129","ekuh8wn","Roses_and_cognac","1555210991","Replacement Affordability | Musk Credibility And Timeline Realism","negative | negative","-1.0 | -1.0","Someone's ass.  That's an unattainably low price for a pack that huge."
+"130","ekuh9j0","azntorian","1555211004","","","","Thanks for the clarification. I haven’t been following Tesla Loop. Great business model."
+"131","ekuhvqs","wsxedcrf","1555211531","","","","You definitely have made the right choice."
+"132","ekuib87","cmubigguy","1555211912","","","","How many modules comprise a pack?"
+"133","ekuidme","redditpaulnz2010","1555211971","","","","is there an alternative to using salt they could come up with?"
+"134","ekuiovh","Decronym","1555212255","","","","Acronyms, initialisms, abbreviations, contractions, and other phrases which expand to something larger, that I've seen in this thread:
+
+|Fewer Letters|More Letters|
+|-------|---------|---|
+|[AP](/r/TeslaMotors/comments/bct7zc/stub/ekxondv ""Last usage"")|AutoPilot (semi-autonomous vehicle control)|
+|[AWD](/r/TeslaMotors/comments/bct7zc/stub/ekuflfd ""Last usage"")|All-Wheel Drive|
+|[DC](/r/TeslaMotors/comments/bct7zc/stub/ekt8diu ""Last usage"")|Direct Current|
+|[ICE](/r/TeslaMotors/comments/bct7zc/stub/eku3t4d ""Last usage"")|Internal Combustion Engine, or vehicle powered by same|
+|[J1772](/r/TeslaMotors/comments/bct7zc/stub/ekv6zgq ""Last usage"")|[SAE North American](https://en.wikipedia.org/wiki/SAE_J1772) charging connector standard|
+|[LR](/r/TeslaMotors/comments/bct7zc/stub/ekuaxrv ""Last usage"")|Long Range (in regard to Model 3)|
+|[Li-ion](/r/TeslaMotors/comments/bct7zc/stub/ektl1ez ""Last usage"")|[Lithium-ion battery](https://en.wikipedia.org/wiki/Lithium-ion_battery), first released 1991|
+|[M3](/r/TeslaMotors/comments/bct7zc/stub/eku5zhs ""Last usage"")|BMW performance sedan|
+|[NEMA](/r/TeslaMotors/comments/bct7zc/stub/ekv6zgq ""Last usage"")|(US) National Electrical Manufacturers Association|
+|SAE|[Society of Automotive Engineers](https://en.wikipedia.org/wiki/SAE_International)|
+|[T3](/r/TeslaMotors/comments/bct7zc/stub/eku9bp8 ""Last usage"")|Tesla model 3|
+|[kWh](/r/TeslaMotors/comments/bct7zc/stub/ektl1ez ""Last usage"")|Kilowatt-hours, electrical energy unit (3.6MJ)|
+
+----------------
+^(11 acronyms in this thread; )[^(the most compressed thread commented on today)](/r/TeslaMotors/comments/bdccrc)^( has 17 acronyms.)  
+^([Thread #4790 for this sub, first seen 14th Apr 2019, 03:19]) 
+^[[FAQ]](http://decronym.xyz/) [^([Full list])](http://decronym.xyz/acronyms/TeslaMotors) [^[Contact]](https://reddit.com/message/compose?to=OrangeredStilton&amp;subject=Hey,+your+acronym+bot+sucks) [^([Source code])](https://gistdotgithubdotcom/Two9A/1d976f9b7441694162c8)"
+"135","ekuipuv","Phaedrus0230","1555212280","","","","I said 8-10yrs, not Elon.
+
+Unless........."
+"136","ekujxsl","your_other_friend","1555213312","","","","Sand, brine"
+"137","ekunyzd","dhanson865","1555216911","Battery Longevity And Degradation | Real-World Range And Efficiency | Module-Level Vs Pack-Level Strategy","negative | negative | neutral","-1.0 | -1.0 | 0.0","Leaf packs are crappy, the worst possible EV pack of any major mass manufactured car on the planet, and I'm on year 7 on a 2012 (down to 61% SOH now and on pace to lose 6-7% every year).
+
+I consider the car not worth bothering with if I can't get 40 miles range on a full charge. Say on a Tesla we can approximately double that to 100 miles on a full charge being too little to bother with.
+
+I see no reason I couldn't use an old S, X, or 3 a decade or two from now in that sort of use case."
+"138","ekunzc0","converter-bot","1555216920","","","","40 miles is 64.37 km"
+"139","ekuo3x6","badcatdog","1555217039","Battery Manufacturing Cost And Energy Density | Claim Clarity And Interpretation","neutral | positive","0.0 | 1.0","For cells alone, at $100/kwh, 75kwh is $7500. The pack includes other electronics etc."
+"140","ekuo6lz","badcatdog","1555217108","","","","https://wp-assets.futurism.com/2017/08/tesla-model-3-battery-pack-modules-1-1200x591.jpg
+
+Different sized modules."
+"141","ekuoask","izybit","1555217218","Service Feasibility And Effort","negative","-1.0","A battery pack contains a lot more than just the modules so it's not as easy to reuse them like that."
+"142","ekuocse","izybit","1555217268","","","","True, your mileage may vary."
+"143","ekup726","TheSentencer","1555218052","","","","4 for a model 3"
+"144","ekusnmb","newleaf00","1555221967","Battery Longevity And Degradation | Cost Versus Buying A New Or Used Car | Real-World Range And Efficiency","positive | neutral | positive","1.0 | 0.0 | 1.0","holy shit that's amazing. most ice cars can barely handle 200k lifetime miles. this battery lasts more than 450k. i wonder if there were any major repairs to the car too."
+"145","ekusww6","I_SUCK__AMA","1555222299","","","","3 is aluminum/steel alloy.  Are the battery packs just steel?"
+"146","ekut0u4","I_SUCK__AMA","1555222439","","","","The simple fact that tiny differences in manufacturing will compound over time"
+"147","ekutarc","melanthius","1555222809","Claim Clarity And Interpretation | Musk Credibility And Timeline Realism","positive | neutral","1.0 | 0.0","Not sure why you are being downvoted, model 3 does in fact have 4 battery modules."
+"148","ekutflj","derwent-01","1555222996","Battery Longevity And Degradation","negative","-1.0","Not at all.
+All modules experience equal draw and equal charge.
+If a module has low capacity it will reach full quicker and reach empty quicker, and will therefore degrade quicker.
+A module with more capacity will have an easier life because the lower capacity modules will be full when it is 3/4 full and empty when it is 3/4 empty so it never gets fully cycled and degrades slower.
+The weakest module always has the hardest time and degrades the fastest."
+"149","ekutgde","natch","1555223024","Claim Clarity And Interpretation","neutral","0.0","Plural because there are multiple different prices depending on the different module sizes for each module."
+"150","ekuvhiw","badcatdog","1555225942","Replacement Affordability | Module-Level Vs Pack-Level Strategy","negative | negative","-1.0 | -1.0","No one would pay $28k for just modules, so that can't be right."
+"151","ekuvjcl","Setheroth28036","1555226019","Claim Clarity And Interpretation | Cost Versus Buying A New Or Used Car","neutral | positive","0.0 | 1.0","That’s fair.  Leaves it kind of open for interpretation then.  Given that I can buy a whole new pack for $13k right now, your interpretation makes much more sense."
+"152","ekuvrju","kazedcat","1555226349","Battery Longevity And Degradation | Module-Level Vs Pack-Level Strategy | Service Feasibility And Effort","negative | negative | negative","-1.0 | -1.0 | -1.0","A degraded module will have higher internal resistance this will force more current being drawn on the new module with lower internal resistance. This will continue until the new module have degraded enough that it match the internal resistance of old module. This is assuming that modules are parallel connected. Series connected module will hammer the module with higher internal resistance making the old module die quicker. But the mechanism is different it is because higher resistance leads to higher power losses so the degraded battery will heat up more. Note that between this two mechanism the mechanism that draws more current is more harmful since power loss is I^2 R so increase in current is amplified by the square exponent."
+"153","ekuw830","rabbitwonker","1555227057","Battery Longevity And Degradation | Module-Level Vs Pack-Level Strategy","neutral | negative","0.0 | -1.0","Modules contain many cells, however, so I’d think the per-cell differences would average out to a significant extent.  It’s probably going to be rare that swapping out one module would give a big boost to range."
+"154","ekuxihh","jollyradar","1555229129","","","","Brine is salt based."
+"155","ekuye5a","madmax_br5","1555230625","Battery Manufacturing Cost And Energy Density | Replacement Affordability | Cost Versus Buying A New Or Used Car","positive | positive | neutral","1.0 | 1.0 | 0.0","Industry consensus is that Tesla is at or below $100/kwh at the cell level. For a 60kwh pack, that is $6000 for the cells. Add the cooling loops, structure, and battery management system, and My guess is that the assembled battery is sub $10k.
+
+Here's a [teardown analysis](https://translate.google.com/translate?hl=en&amp;sl=de&amp;tl=en&amp;u=https%3A%2F%2Fwww.wiwo.de%2Ftechnologie%2Fmobilitaet%2Felektroauto-zerlegt-tesla-model-3-kann-gewinn-abwerfen%2F22625806.html) of the model 3 by a german firm; they estimate the *entire car* costs $18k in materials and then $10k of production/labor cost.
+
+[Another source](https://electrek.co/2017/02/18/tesla-battery-cost-gigafactory-model-3/)
+
+[And another](https://www.youtube.com/watch?v=pAS-yjWj9DY)"
+"156","ekv1w4u","vader88","1555236972","Claim Clarity And Interpretation","neutral","0.0","Am I mistaken, doesn't it say right in the original tweet that it's per module? ""Replacing modules (not pack) will cost $5k to $7k"""
+"157","ekv37ob","badcatdog","1555239297","Claim Clarity And Interpretation","positive","1.0","Exactly? I suggest he would have said ""each module"" if that's what he meant."
+"158","ekv38za","badcatdog","1555239361","Musk Credibility And Timeline Realism | Claim Clarity And Interpretation","negative | negative","-1.0 | -1.0","Ah, an estimate. I should have guessed from ""like""."
+"159","ekv4pzp","Tupcek","1555241660","Cost Versus Buying A New Or Used Car | Replacement Affordability","positive | negative","1.0 | -1.0","$20-$28k for new battery, or $35 for new car? Definitely the new one"
+"160","ekv6zgq","trevize1138","1555244674","Real-World Range And Efficiency | Service Feasibility And Effort | Replacement Affordability","positive | positive | positive","1.0 | 1.0 | 1.0","I have the MR and for winter it would be nice to have more range but I've figured out some efficiency tricks that help. I'm also betting on the future which sees an increase in destination charging not just with Tesla L2 but J1772 chargers. Was able to do exactly that yesterday for a day trip with the family. I'm already lobbying my favorite ski hill for at least some NEMA 14-50 outlets as I know that would demonstrate to them how inexpensive it could be."
+"161","ekv7cl8","rich000","1555245130","Battery Longevity And Degradation","positive","1.0","Yeah, I hear that adjusting your charge timing helps a lot, as well as preconditioning the battery."
+"162","ekvacp7","yeonik","1555248485","","","","You’d think that, but it’s just as likely that they compound rather than balance out."
+"163","ekvby3m","PM_CITY_WINDOW_VIEWS","1555250061","Corrosion And Body Durability | Real-World Range And Efficiency","negative | neutral","-1.0 | 0.0","A solution of salt, basically. Easier to apply more evenly to deal with icy conditions.
+
+Rusting cars suck, but I'll take it over people sliding into me or me sliding into people any day."
+"164","ekvj629","trevize1138","1555256091","Real-World Range And Efficiency","positive","1.0","Yup. I have a long commute and set my charge to start so it's done within an hour of when I get up then turn on cabin heat from the app. I even sometimes turn the heat to LO and divert all air to the windshield at a fan speed of 1 for at least the first 10 miles of the drive before turning heat back on. Really seems to make a big difference: only use heat while either plugged in or after the battery and motor have warmed up a bit from being under load."
+"165","ekvj6fk","converter-bot","1555256099","","","","10 miles is 16.09 km"
+"166","ekvovv9","Yaro_S","1555260342","Replacement Affordability | Module-Level Vs Pack-Level Strategy","positive | neutral","1.0 | 0.0","The entire pack currently costs 15k without labor for a long range. That's pretty cheap"
+"167","ekw2o2n","montyprime","1555270480","Service Feasibility And Effort","negative","-1.0","They would need to make them way easier to service.
+
+These packs are pretty well sealed.  They use potting material all over the pack to seal it all up.  The lid is completely destroyed removing it."
+"168","ekwikzu","AlwaysHopelesslyLost","1555283217","Claim Clarity And Interpretation | Module-Level Vs Pack-Level Strategy","positive | positive","1.0 | 1.0","The pack includes cooling hardware and the charging circuit so I would assume he means they would just replace the modules, not the entire battery assembly."
+"169","ekwrf1g","AmpEater","1555290691","Battery Longevity And Degradation | Module-Level Vs Pack-Level Strategy","neutral | negative","0.0 | -1.0","That's not how this works. All the modules are in series. The current must always be the same at every point in a series circuit. If you have a 200ah module in series with a bunch of 100ah modules you can only ever get 100ah from it."
+"170","ekwrhms","AmpEater","1555290758","Module-Level Vs Pack-Level Strategy | Battery Longevity And Degradation","neutral | neutral","0.0 | 0.0","The modules are all in series. A basic rule of electricity is that the current in a series loop is equal at all points. You can't have more current drawn from 1 module in series than the others."
+"171","ekxofk7","bittabet","1555330818","Cost Versus Buying A New Or Used Car | Replacement Affordability | Service Feasibility And Effort","negative | negative | neutral","-1.0 | -1.0 | 0.0","Well by the time the car has enough years and miles for this failure to occur out of warranty it's likely going to be a 10+ year old car. Would honestly be hard to justify something like a $7K module repair that would need to be repeated if another module fails. Why wouldn't someone just buy a 2 year old Model 3 at that point that would likely be around the $20K mark. You could finance the car purchase while it's much harder to cheaply finance the battery module, you could also trade in the car with a bad battery for some amount of money (I would guess $3-5k?). I'd argue that replacing a module for $7K on a 10 year old car is a terrible idea compared to trading it on a lightly used version of that car. If you replace the module and 2 years later the other module fails do you put another $7K into the car? Even if you fix the battery up the rest of the car is now a decade+ old car.
+
+Or you could buy a lightly used version of the Model 3 that's out then. A 2028 Model 3 or something like that would have significant improvements versus a 2018 Model 3. Look at what Tesla vehicles were like 10 years ago in terms of technology-you'd be looking at the original Roadster. The Roadster was a great car but it's not like the tech inside the cabin isn't very obviously out of date."
+"172","ekxondv","bittabet","1555331047","Module-Level Vs Pack-Level Strategy | Service Feasibility And Effort | Battery Longevity And Degradation","positive | negative | negative","1.0 | -1.0 | -1.0","Yeah a swap for a refurbished pack is much more in line with normal industry practices, otherwise every car would have crazy downtime and you'd have to try and build battery refurbishing shops all over the place instead of having an efficient central place to send the packs to be refurbished.
+
+Still, most refurbished battery packs only last a few more years before other cells start malfunctioning so you still have to justify that cost and I think it'll be very hard to do when the rest of the car is a decade old. Look how far Teslas have come in 10 years...chances are you'd want to trade in the broken car for whatever you can get and buy an improved 2030 Tesla with AP HW5 or whatever lol."
+"173","ekxowkx","bittabet","1555331310","","","","Yeah, a lot of states have a pretty significant minimum holding period to get the credit.
+Still, might still be worth sacrificing that since you do get the federal"
+"174","ekxoxji","bittabet","1555331337","","","","Think of the car insurance headaches this would cause though."
+"175","ekxoyfg","bittabet","1555331362","Claim Clarity And Interpretation","neutral","0.0","I thought it was 3 modules for the Model 3?"
+"176","eky7cmv","Delusional_Brexiteer","1555345167","","","","The detail was a futile attempt to stop people on Reddit from misreading or misunderstanding my point."

@@ -1,0 +1,457 @@
+"idx","comment_id","author","created_utc","aspects","sentiments","scores","body"
+"0","elnt7gk","R0selini","1556117861","VTHO Yield Adequacy | Liquidity And Sellability","positive | positive","1.0 | 1.0","Sold all my VTHO the other day. Free VET is so nice :)"
+"1","elnt96w","joncgde2","1556117891","","","","Excellent post. Prepare to be downvoted to oblivion."
+"2","elntmra","Crypto-knowdeway","1556118118","Token Economic Model Soundness | VTHO Yield Adequacy | Liquidity And Sellability","positive | positive | negative","1.0 | 1.0 | -1.0","The economic model will drive the price of VET up over time as a byproduct of adoption. It’s literally written in the math and that will be all our rewards, however we need to allow the economic model to come to fruition and for that there needs to be a highly liquid and CHEAP pool of VTHO. At the end of the day, VTHO is free and we gain free VET from it. Much more than many other tokens can offer. We gain a free asset to boost the pile of the main asset that is free to appreciate as per the economic formula. 
+
+We need to play the foundation’s game on this one. Look at all they’ve achieved so far. If the model falls apart this early, we all end up with nothing. VTHO is not for HODLing, VET is. VTHO earns you free VET. That’s the golden goose. Get that VET!"
+"3","elnttf0","zk-investor","1556118230","","","","Well said."
+"4","elnttp0","lbrazii","1556118235","Adoption-Driven Demand | Foundation Price Intervention","neutral | neutral","0.0 | 0.0","i have 2 questions
+
+1 - which affect will the success of mystroy or any other company that uses the vechain blockchain have on the price, since they dont need vet, i remember sarah mentioned that companies could also pay fiat to use the services
+
+2 - what will the foundation do with their generated vhor?"
+"5","elnu6xz","Blockis","1556118448","Liquidity And Sellability | Wallet And Conversion Tooling","positive | positive","1.0 | 1.0","You can use http://vtho.exchange or http://vexchange.io"
+"6","elnuis9","Crypto-knowdeway","1556118646","Adoption-Driven Demand | Price Growth Prospects | Foundation Price Intervention","positive | positive | neutral","1.0 | 1.0 | 0.0","1) fiat will pay for VTHO which gets burnt regardless. That fiat indirectly passes in to the Blockchain. All Tx require VTHO. The bigger MyStory get, the more VTHO, the more valuable VET becomes through demand. 
+
+2) who knows, but I’m sure they have a plan."
+"7","elnurm8","bentaylor84","1556118790","VTHO Yield Adequacy | VTHO Price Level | Speculation Versus Fundamentals","negative | negative | negative","-1.0 | -1.0 | -1.0","We have created 11 billion VTHO since the mainnet was launched, and only 170 million of that has been burned. Speculators (who don’t understand VTHO at all, imo) are obviously driving up the price because they think it’s an investment. It’s not. These people need to just sell their VTHO for VET, or any of the other great coins in the VeChain ecosystem."
+"8","elnvq6t","ohredditplease","1556119374","VTHO Yield Adequacy","positive","1.0","The model is luckily not dependent on us selling our VTHO. Our own returns are"
+"9","elnwgjs","Crypto-knowdeway","1556119810","Token Economic Model Soundness | VTHO Yield Adequacy | Price Growth Prospects","positive | positive | positive","1.0 | 1.0 | 1.0","Great point. That VTHO can get you even more VET, or grab some low market cap coins to flip for more VET when they go up. Way better for the long term outlook. It’s literally a self reinforcing thing. People are missing out whording VTHO and missing the point while they’re at it."
+"10","elnwlm7","Crypto-knowdeway","1556119892","Wallet And Conversion Tooling","positive","1.0","There definitely should be. I’d be surprised if one wasn’t eventually developed, that would be genius for offloading VTHO."
+"11","elnzrz2","MasonMSU","1556121808","Adoption-Driven Demand | Community Information Quality","positive | negative","1.0 | -1.0","I was convinced that the first action would be reduction of transaction cost per the WP?
+
+It doesn’t matter to me either way, just that they keep things growing. The future is bright for VeChain!"
+"12","elo0gx1","Askk8","1556122224","Wallet And Conversion Tooling | Liquidity And Sellability","positive | negative","1.0 | -1.0","They should make it easier to sell the Vtho through the wallet tho, instead of having to send it to an exchange🧐
+
+Automatic convertion of VTHO into VET once a week that you could turn on and off would be a cook feature"
+"13","elo1k0j","wowDarklord","1556122881","Liquidity And Sellability | Wallet And Conversion Tooling | Adoption-Driven Demand","negative | negative | neutral","-1.0 | -1.0 | 0.0","It is much more complicated than it appears, however. 
+
+Transactions on the chain cost VTHO. You can't simply sell all that you generate as it comes in, as the transaction costs have to be paid, so it must be done in bulk. 
+
+Any transaction on the blockchain also must be signed by the private key of the address generating the transaction. That means either A) your wallet has an unencrypted private key in memory to sign these automatic transactions, or B) you have to enter your password each time you want to 'auto' sell.  You also have to have an internet connection to broadcast the transaction to the blockchain.
+
+Neither of these are good options at all. The longer term solution that hopefully gets implemented, is the ability to redirect a percentage of your VTHO generation from a blockchain address to another one. This could allow you to point your VTHO to an address with a smart contract that sends you back VET/OCE/SHA/anything every time you send it X number of VTHO. It also allows an enterprise to have a cold wallet of VET that they don't touch, that is still generating VTHO to run its business that can be moved around to multiple smart contract addresses. MPP may make this less needed though."
+"14","elo2eon","wowDarklord","1556123379","Liquidity And Sellability | Wallet And Conversion Tooling | Speculation Versus Fundamentals","negative | negative | neutral","-1.0 | -1.0 | 0.0","While it is true that part of it is speculation, I think the larger piece is simply the difficulty in selling VTHO. As it is a manual process, many people are simply not bothering. What percentage of people with VET on Binance are actually going through the effort to send it to OceanX to convert to something else? 
+
+We need a method built into the protocol to facilitate these VTHO -&gt; exchange (via smart contract) transfers that can be set up automatically. If you were able to have the blockchain allocate generated VTHO to a different address than the address with VET that was generating it, things would be radically different. Allocate X percentage of my VTHO generation, above a configurable threshold, to go to a smart contract. The smart contract, after it receives Y VTHO, sends back VET/SHA/whatever. If the smart contract's supply of VET has run out, you can simply send a transaction to it and it will return any unconverted VTHO to your address."
+"15","elo2ixf","NTSpike","1556123452","Foundation Price Intervention | Liquidity And Sellability | Adoption-Driven Demand","negative | negative | positive","-1.0 | -1.0 | 1.0","What do you mean by ""we need to play the foundation's game on this one?"" Are you suggesting we should sell into horrible VTHO prices because the system breaks down if not? People will naturally sell as the price rises. This is how free markets work. In the case of adoption, demand will raise the price just the price is being held up right now with holders unwilling to sell. In either case, VeChain built in levers to change the VTHO/tx cost and generation rate to account for these supply/demand variables. VeChain's success should not be and is not dependent on us selling VTHO for nothing."
+"16","elo30lr","Crypto-knowdeway","1556123741","VTHO Price Level | VTHO Yield Adequacy | Token Economic Model Soundness","negative | neutral | positive","-1.0 | 0.0 | 1.0","I just mean that the supply of VTHO is supposed to be liquid, plentiful and cheap. People hoarding  or buying in the hope of it taking off in price misunderstand the model. VTHO is literally infinite, it was always going to be cheap. It makes more sense to stack as much VET and ecosystem tokens that have the freedom to appreciate way more and in the process supply the ecosystem with what it needs as well. And ultimately, VTHO is free. It’s a bonus. Every penny you get from it is a gift. You’re already getting it for nothing so whatever the price is, it’s still free stuff."
+"17","elo5t6o","Citrisic","1556125362","Liquidity And Sellability | Wallet And Conversion Tooling | Foundation Price Intervention","negative | negative | negative","-1.0 | -1.0 | -1.0","Still doesn't address the main problem. You can't sell your VTHO anywhere. Don't say OceanEx. As a US based investor, I won't be touching that exchange when I can't withdraw the funds with such a low daily limit. When I'm able to exchange my VTHO for the other ICO tokens I will."
+"18","elo6es8","NTSpike","1556125730","Speculation Versus Fundamentals | Price Growth Prospects | VTHO Price Level","negative | positive | positive","-1.0 | 1.0 | 1.0","Sure. I think people are hoarding it expecting the price to soar in the next speculation fueled bubble. If VeChain were to rise and shoot past previous ATH levels, VTHO would naturally rise exponentially as well. Considering how low the price is for VTHO, it has potential to grow proportionally more than VET. In these market conditions VeChain would lower the VTHO/tx cost and your VTHO would be worth several times more money than it is worth now.
+
+VTHO is free but VET's fundamental purpose is to generate VTHO. If the price of VTHO raises, so should VET. VTHO is about as ""free"" as oil is free by purchasing and owning an oil well."
+"19","elo6gut","Bigunsy","1556125765","Wallet And Conversion Tooling","positive","1.0","Just having a ‘sell vtho’ button that would market sell a portion you specify would be a good start"
+"20","elo8mw1","thatonedinobot-theon","1556127080","","","","&gt;Have you tried  [http://vtho.exchange](http://vtho.exchange/) or [http://vexchange.io](http://vexchange.io/) ?"
+"21","elo9prz","posmond0981","1556127725","","","","I did it for PLA... first time... felt awesome"
+"22","eloa4r0","jpl691","1556127979","VTHO Yield Adequacy | Liquidity And Sellability | Price Growth Prospects","negative | positive | positive","-1.0 | 1.0 | 1.0","i have a massive stack of vthor that i been sitting on , i have a node . I think it is time i cashed it out and put it towards more plair and/ or vet"
+"23","eloabgd","DjangolSky","1556128092","Liquidity And Sellability | Wallet And Conversion Tooling","positive | positive","1.0 | 1.0","You can withdraw a daily amount up to 50k VET without any KYC. This should be more than enough for the conversion of VTHO."
+"24","elob8vp","Donglederper","1556128631","Liquidity And Sellability","positive","1.0","Extremely easy to sell on vexchange"
+"25","eloc0dk","Citrisic","1556129069","VTHO Yield Adequacy | Liquidity And Sellability | Wallet And Conversion Tooling","negative | negative | negative","-1.0 | -1.0 | -1.0","True if you are only producing smaller amounts of vthor per day. And withdraw limit on OceanEx is $500. It just isn't worth trading on there at the moment. When I can deposit large amounts and feel confident I can get it out, I will start interacting with the platform."
+"26","eloccwu","Supreme_dirky","1556129267","Adoption-Driven Demand | Speculation Versus Fundamentals | Token Economic Model Soundness","negative | negative | negative","-1.0 | -1.0 | -1.0","The sad reality is, what if companies dont want to use this model of buying VET to generate vtho, they just want to use the blockchain services without all the extra bullshit. What happens then? VET and VTHO are banking on enterprises wanting to put their own money into VET/VETHO to use and have cheap tx's. Its all just speculation for now. What does all this solve for the enterprise business? Seems like this model causes more harm than good. Seems like crypto as a whole is causing more effort for businesses. The success of this whole thing will be measured on effort and money. How much effort does this require from me? How much money can we lose holding VET with the volatile crypto prices."
+"27","elocdq7","squivo","1556129280","","","","I’ve been wanting calculate this forever but have been stuck on the values of ‘r’, ‘g’ and ‘PVGc’.  How did you calculate these so you could plug in ‘P’ and ‘E’ values?"
+"28","elocmo3","Jablokology","1556129424","","","","I wish I could write as well as you. Very well put."
+"29","elodmqr","nichef","1556130034","Liquidity And Sellability | VTHO Price Level | Foundation Price Intervention","negative | negative | neutral","-1.0 | -1.0 | 0.0","Liquidity is low because price is too low and people don't want to sell at the current price.  As price increases so will liquidity.  If they are worried about liquidity they need to employ traditional market makers and expand the exchange offerings.  One small exchange in China isn't going to cut it and neither will Binance.  They need to get on regulated Western Exchanges and they'll get wall street market makers doing their thing until then we will have a liquidity crunch for both VET and VTHO."
+"30","elodyul","proto_ant","1556130231","","","","This feature is being developed by Vechain and OceanEx, but it’s not available yet. See number 4 from the AMA a year ago 
+
+https://medium.com/@vechainofficial/vechainthor-wallet-ama-5650dea84ccb"
+"31","eloe9v0","Donglederper","1556130401","Liquidity And Sellability | Wallet And Conversion Tooling","positive | positive","1.0 | 1.0","True, you could also use comet with your wallet and sell it instantly for any of the vip tokens (vet,sha,pla,oce or tic) on vexchange. So easy and fast. Or you could make a vtho comet wallet and send vtho there and use that if not comfy using main wallet."
+"32","elof0vr","Crypto-knowdeway","1556130841","Liquidity And Sellability | Wallet And Conversion Tooling","negative | negative","-1.0 | -1.0","This is what I meant. Selling as it generates would be a nightmare 😄"
+"33","elofpg8","Crypto-knowdeway","1556131240","Adoption-Driven Demand | Speculation Versus Fundamentals | Wallet And Conversion Tooling","positive | positive | neutral","1.0 | 1.0 | 0.0","Those companies can with MPP protocol, VIP-191 and other tech VeChain have created. Many companies/individuals will still pay for services in cash yet still use the underlying protocols and indirectly, the tokens, without owning or even knowing about crypto. That’s part of VeChain’s plan for mass adoption. You can’t expect the world to change, you have to make things as basically unnoticeable as possible.
+
+https://medium.com/@vechainofficial/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7"
+"34","elogy0t","ohredditplease","1556131977","VTHO Price Level | Liquidity And Sellability | Wallet And Conversion Tooling","negative | negative | neutral","-1.0 | -1.0 | 0.0","&gt;Liquidity is low because price is too low and people don't want to sell 
+
+The VTHO price is too high. 
+I think their plan is to have Oceanex as the main hub to trade VTHO."
+"35","elohg35","Twitstein","1556132282","Foundation Price Intervention","neutral","0.0","&gt; YES, the foundation can change levers to decrease VTHO/transaction, BUT I don't anticipate they want to have to do that frequently.  
+
+So who in the foundation has authority to do that?   
+And can anyone (read  the Chinese government) direct the foundation to increase or decrease VTHO/transaction?"
+"36","elohndr","ohredditplease","1556132406","Foundation Price Intervention | Community Information Quality","neutral | neutral","0.0 | 0.0","The steering committee for which anyone with 1m+ VET will be able to vote at some point"
+"37","elojco3","Twitstein","1556133448","","","","Thanks for that heads up. And is there any reason you didn't address the second question?"
+"38","elojhfh","ohredditplease","1556133529","Adoption-Driven Demand | Wallet And Conversion Tooling","positive | positive","1.0 | 1.0","They can't use the blockchain without getting VTHO, and getting VTHO will be just like paying an electricity bill, no crypto hassle, thanks to MPP."
+"39","eloji1t","git_world","1556133539","","","","sorry, noob here. I don't understand much of these tokenomics. I hold a small amount of VET and there is automatically some VTHO also accumulated. Question: Can I sell this VTHO and get VET? please ELI5"
+"40","elojpbs","vegueria124","1556133664","Token Economic Model Soundness | VTHO Yield Adequacy | VTHO Price Level","negative | negative | negative","-1.0 | -1.0 | -1.0","You say VET is the Golden Goose, but why would anyone care to generate ""free VTHO"" if they can buy it for basically nothing? 
+
+Bottom line, the price of VET is going to be driven by the value of VTHO that it generates. Nobody is going to want to purchase or hold an asset that generates little to no value."
+"41","elok804","vegueria124","1556133946","VTHO Yield Adequacy | VTHO Price Level | Token Economic Model Soundness","negative | negative | negative","-1.0 | -1.0 | -1.0","I disagree with all these comments saying that this should not be viewed as an investment or VTHO shouldn't be viewed as a dividend.
+
+Answer this, why would anyone purchase or hold VET? The answer is to generate VTHO. Now, what would incentivize someone to buy and hold VET if VTHO has little to no value, and can be purchased in the open market for basically nothing.
+
+Bottom line, the price of VET is going to be driven by the value of VTHO that it generates. Nobody is going to want to purchase or hold an asset that generates little to no value."
+"42","elokhq0","ohredditplease","1556134090","Foundation Price Intervention","neutral","0.0","I suppose they can go after the committee and force them to do something they want. Not sure how that would work"
+"43","elolgc5","Twitstein","1556134624","Foundation Price Intervention | Speculation Versus Fundamentals","negative | negative","-1.0 | -1.0","&gt; force them to do something they want
+
+That doesn't sound good. Sort of defeats the point of decentralised currency."
+"44","elolsfr","R0selini","1556134819","Liquidity And Sellability | Wallet And Conversion Tooling","positive | neutral","1.0 | 0.0","Yes simply transfer your VTHO to OceanEx and you can sell it for any VeChain tokens they have on their like PLA or SHA or you can buy VET directly."
+"45","elomirg","Orionthehunt3r","1556135241","Liquidity And Sellability | Wallet And Conversion Tooling | Foundation Price Intervention","positive | positive | positive","1.0 | 1.0 | 1.0","All points about VTHO being hard to sell due to lack of convenience, exchange listings, liquidity, waiting for better ROI are very valid. 
+
+The higher ups know that it’s still very early and these things will resolve themselves as the ecosystem develops. Just the function of converting VTHO to VET in the mobile wallet would be a huge leap in selling VTHO.  
+
+I strongly believe that the reasons for Cream, and Sunny Lu to publicly state that the price of VTHO is high was was to set the expectations, and help people from getting Rekt down the line. 
+
+I believe tampering expectations, and speculation,  is in line with Vechain’s Unstated public policy. That’s one reason, I believe, that It’s the foundation that holds down the price of VET, because the last thing that businesses want, is uncertainty. If the price of VET is constantly jumping around, it’s reflects negatively on the project. I believe this is just temporary until things start moving at a steady clip, and then the walls will be removed. 
+
+Please don’t kill me for this observation. It’s just my opinion."
+"46","elomrwa","ohredditplease","1556135383","Foundation Price Intervention | Adoption-Driven Demand | Speculation Versus Fundamentals","negative | negative | neutral","-1.0 | -1.0 | 0.0","It's not a currency, but i understand what you mean. Maybe there are measures in place, if there are private keys involved they could be impossible to access.
+
+In any case, the same applies to most if not all cryptos. If govts really wanted to crack down they could outlaw it or cripple some mining pools. It's cool if the network is up and running but what good is it to you if your business is shut down for using it."
+"47","elonxzh","Trebor23","1556136054","VTHO Yield Adequacy | Liquidity And Sellability","neutral | neutral","0.0 | 0.0","I have about 15,000 vtho would it even be worth it to sell for some Vet or plair??? Thanks In advance"
+"48","elonyxj","toaobaconator","1556136070","Liquidity And Sellability | Price Growth Prospects","negative | positive","-1.0 | 1.0","Im waiting for VTHO list on Binance till i sell - just look at ONG - no need to rush sell now :)"
+"49","eloo23v","git_world","1556136123","Wallet And Conversion Tooling | Liquidity And Sellability","neutral | neutral","0.0 | 0.0","I don’t understand. So, I don’t loose my current VET when I sell VTHO?"
+"50","elop4nf","D3lusions","1556136732","","","","I'm very curious as to who in the world is selling VET for VTHO in the market  🤔"
+"51","eloq8r2","Rezdawg3","1556137364","Token Economic Model Soundness | Adoption-Driven Demand | Speculation Versus Fundamentals","positive | positive | negative","1.0 | 1.0 | -1.0","Why would anyone buy and hold ETH? Or BTC? Or XRP? You don't need a secondary coin to make the investment worthwhile.  As long as there is demand for VTHO, then there will be demand for VET."
+"52","elornus","InSearchOfGreyPoupon","1556138164","Liquidity And Sellability | Wallet And Conversion Tooling | Price Growth Prospects","negative | negative | positive","-1.0 | -1.0 | 1.0","I think the problem would be solved if they asked Binance to open up a VET/VTHO pairing. People would be dumping vtho very quickly for more vet."
+"53","eloroij","heinouslol","1556138174","Token Economic Model Soundness | VTHO Yield Adequacy | Liquidity And Sellability","positive | neutral | positive","1.0 | 0.0 | 1.0","No. 
+
+Vet is your fruit tree.
+
+Vtho is your fruit.
+
+Selling your fruit doesn't mean losing your tree. 
+
+When you go to sell, make sure you have enough fruit to pay the transaction fee."
+"54","elorxya","OneOfAwe","1556138322","Token Economic Model Soundness | VTHO Yield Adequacy | Liquidity And Sellability","neutral | neutral | neutral","0.0 | 0.0 | 0.0","VET and VTHO are 2 different coins. VET generates VTHO. Using, moving, or trading your VTHO has no effect on your VET."
+"55","elorzxu","tarangk","1556138353","Liquidity And Sellability | VTHO Price Level | Wallet And Conversion Tooling","positive | positive | positive","1.0 | 1.0 | 1.0","I think we a temporary catalyst would be to have Binance list VTHO, its a temporary solution but it might work out in short term, look at when they listed ONG the price bumped up but a lot of holders sold so if we are to get VTHO holders to sell this might do the trick, not to mention all exchanges like to follow Binance after ONG was listed on Binance immediately other exchanges started listing it as well so it can easily create a snowball effect.
+
+&amp;#x200B;
+
+also we have only BTC.USDT and VET pairs for VTHO on OceanEx am sure if we had more VTHO pairings with other Vefam projects like Plair and Safe Heaven a lot of the VTHO holders will start using those pairings to buy those tokens."
+"56","elosbvj","Citrisic","1556138542","Speculation Versus Fundamentals","negative","-1.0","ETH, BTC, XRP, all speculation. This isn't what we want driving VET value."
+"57","elot2gt","vegueria124","1556138978","VTHO Yield Adequacy | VTHO Price Level | Token Economic Model Soundness","negative | negative | negative","-1.0 | -1.0 | -1.0","Not true. Demand for VTHO doesn't translate to demand for VET if VTHO has a very low value. People could buy it for nothing on the open market.
+
+Therefore, if the goal is to have a very low price of VTHO, they'd better significantly increase the generation rate to get there because nobody is going to want to hold VET for such a small return (approx. 2% at current prices with an strength x node)."
+"58","elot5ft","vmrey","1556139028","VTHO Yield Adequacy | VTHO Price Level | Price Growth Prospects","positive | negative | positive","1.0 | -1.0 | 1.0","Basically sell your VTHO for VET and accumulate more VET !!!!"
+"59","elotnw8","Cuzah","1556139333","Foundation Price Intervention | Community Information Quality","positive | positive","1.0 | 1.0","I feel like we’re worrying too much here. Saw how calm and smooth Sunny was with the questions. He and the team already saw this situation coming a long ways."
+"60","eloula2","Rezdawg3","1556139902","Speculation Versus Fundamentals","positive","1.0","Speculation is what drives every stock... Googles price is 90% speculation. That's always going to be a part of the equation."
+"61","elounbv","nichef","1556139936","Foundation Price Intervention | Price Growth Prospects | Speculation Versus Fundamentals","negative | neutral | neutral","-1.0 | 0.0 | 0.0","If the price was too high people would be selling.  That is how markets work.  Maybe they want the price to be lower but the foundation doesn't get to decide the market decides the price.  Fair market value is fair market value."
+"62","elouo2c","CalculatedLuck","1556139949","VTHO Yield Adequacy | Adoption-Driven Demand | Speculation Versus Fundamentals","negative | negative | negative","-1.0 | -1.0 | -1.0","So holders of VET should expect 0.15% annual return in VTHO?
+
+If your calculations are correct, and I’m not saying they are, then VTHO generation from VET is basically worthless...
+
+And if corporations want to use the network it’s better for them to just buy VTHO for dirt cheap rather than buy VET and generate it themselves...
+
+Because why would a corporation invest $1mil into VET when they can just buy the same amount of VTHO that would generate in a year for only $1,500?
+
+Seems off."
+"63","elouuni","Rezdawg3","1556140056","Adoption-Driven Demand | Price Growth Prospects | Speculation Versus Fundamentals","positive | positive | negative","1.0 | 1.0 | -1.0","If there are 50 million transactions happening daily, the price of VTHO will not be low.  The only way prices stay low is if there is never any demand. As long as the ecosystem is firing, prices will all rise."
+"64","elov9rx","Krish81","1556140308","Liquidity And Sellability | Wallet And Conversion Tooling","negative | neutral","-1.0 | 0.0","What if you sign a ""subscription contract"" that says that you will sell 95% of your VTHO once a month?"
+"65","elovljp","CalculatedLuck","1556140507","","","","My friend, use that $10 to get a book that will help you increase your income by $10k rather than wasting your time worrying about how to turn $10 into $50.
+
+People’s focus here is all out of whack..."
+"66","eloxm58","Citrisic","1556141791","","","","Google's stock price is driven on gross revenue, profit, and plethora of products. Not to mention the amount of money they dump into research and development on future products. They also acquire other companies regularly and employ a large amount of our nation's brightest minds recruiting from the top schools and most exciting fields."
+"67","eloyw3c","Thefriendlyfaceplant","1556142628","Liquidity And Sellability | Foundation Price Intervention","negative | negative","-1.0 | -1.0","You convinced me to sell my vtho. If this was a ruse to get vtho for cheap then well played."
+"68","elozl3m","vegueria124","1556143091","Foundation Price Intervention | VTHO Yield Adequacy | VTHO Price Level","negative | negative | negative","-1.0 | -1.0 | -1.0","50 million transactions? C'mon now. And if they want to manipulate VTHO to keep the price extremely low, that will directly impact the price of VTHO, unless they do it through increasing the generation rate. At the end of the day, VTHO returns are the only reason to buy and hold VET and right now those returns are very small. If the intention is to decrease this return even further, then VET is worthless."
+"69","elozmuo","Rezdawg3","1556143124","Speculation Versus Fundamentals | Price Growth Prospects","negative | neutral","-1.0 | 0.0","~90% of their price is based on speculation.   There was research done on it and based on everything they do, that only accounts for a small portion of their price. It's overwhelmingly based on speculation.  If things stay exactly as they are, the price of Google or Amazon doesn't go up... It's all speculation that it will go up and that's why people invest and hope for prices to continue to rise.  Everything is speculation based."
+"70","elp02z1","Citrisic","1556143401","","","","Link the study?"
+"71","elp2zzr","EastCoastOffense","1556145308","Wallet And Conversion Tooling | Liquidity And Sellability","negative | negative","-1.0 | -1.0","Right, an auto-sell feature shouldn't be that much of an issue to set up, and if we are letting VTHO sit around anyway, a month-long increment shouldn't be a barrier."
+"72","elp363a","freevideochat","1556145415","VTHO Price Level | VTHO Yield Adequacy | Liquidity And Sellability","positive | positive | positive","1.0 | 1.0 | 1.0","VTHO was not desigend to have stable price and some of whales will pump it soon when accumulation phase is over, if they wanted stable price they would issued stable token. VTHO is undervalued comparing to VET price and looking so bullish right now that i would buy 100M of VTHO if there was OTC trading with VET pair. Every day a new post about price overpriced and what we see? VET dumping VTHO going up. You people need to face it that you made mistake with this VET and VTHO speculation and more post like this  your VET investment will go even more down, not VTHO price. VTHO is great investment, yes its investmenet coin, it was never desigend to be stable or cheap. Transactions are desigend to be cheap. VTHO and VET are investment coins which prices will be determinated as result of pump and dump by the whales. How long are you people in crypto if you dont understand some basics of crypto market? Forghet adoption, theres no adoption, no usecase, no mainstream, just hype, manipulation, pump and dump. Will that change and when nobody knows but its not going to happend tomorow."
+"73","elp3ifg","awpohtunity","1556145639","VTHO Yield Adequacy | Liquidity And Sellability | VTHO Price Level","positive | positive | neutral","1.0 | 1.0 | 0.0","Uhh what? To reach the withdrawal limit (50k VET) you need to generate 424k VTHO/day at current prices. You'd need just under 100M VET to generate such an amount of VTHO every day. The daily withdrawal limit is more than enough for VTHO/VET conversion."
+"74","elp3rey","Rezdawg3","1556145811","","","","Will look for it after work. It was something that was posted in the cryptocurrency subreddit last year.  Just don't have time right now to search, but will find it when I have some time."
+"75","elp3woq","freevideochat","1556145912","VTHO Price Level | VTHO Yield Adequacy | Liquidity And Sellability","positive | positive | negative","1.0 | 1.0 | -1.0","I sold around 30% of my VET to convert it to VTHO and i would buy 100M more VTHO if there is OTC market for VTHO/VET pair. VTHO is so undervalued comparing to VET and VTHO is a great buy now since its looking bullish as hell."
+"76","elp5g43","freevideochat","1556146948","Liquidity And Sellability | Speculation Versus Fundamentals","negative | negative","-1.0 | -1.0","Why would anyone sell VTHO for coins like PLA and SHA? Was this serious or sarcasam?"
+"77","elp5nbs","freevideochat","1556147082","Token Economic Model Soundness | VTHO Yield Adequacy | Liquidity And Sellability","negative | negative | positive","-1.0 | -1.0 | 1.0","terible and wrong advice, that way you will acumulate less VET, only way to accumulate more VET is actualy buy VTHO with VET and then sell it when hits higher ratio."
+"78","elp66p1","tedgruf","1556147444","Community Information Quality | VTHO Price Level","negative | negative","-1.0 | -1.0","But they (Sunny and Cream) literally said it's too expensive. So you're saying Sunny is totally wrong in his assessment. Hope your confident my friend lol."
+"79","elp6tw2","freevideochat","1556147903","Liquidity And Sellability | VTHO Price Level","positive | negative","1.0 | -1.0","if you really have massive stack around 50-100M VTHO i would buy it for the 0,115 VET price. Just hit me a message and we can do the trade through OceanEx."
+"80","elp7btp","freevideochat","1556148244","VTHO Price Level | Speculation Versus Fundamentals | Community Information Quality","negative | negative | negative","-1.0 | -1.0 | -1.0","Sunny said ""little bit too expensive"" and that was sad when the price was +30% up from current price and Cream said that when the price was +100% from current price. Second, dont belive everything you hear if you dont know to read between the lines and if you dont understand crypto games. The price is too expensive and they launched campagin to spike the price up by encourage you to buy VTHO and reward you based on your NET VTHO buy. I also said its heavvily undervalued comparing to VET and that is a big difference from comparing it to USD."
+"81","elp7hz2","Citrisic","1556148355","Liquidity And Sellability | Wallet And Conversion Tooling | Price Growth Prospects","negative | neutral | negative","-1.0 | 0.0 | -1.0","You skipped over where I said when I can deposit large amounts and feel confident withdrawing it will be worth trading there. Right now it would only be useful in converting vtho. I'm not operating on yet another exchange until it actually supports US customers. Right now I'll leave my node alone like I have for over a year now."
+"82","elp7tm1","awpohtunity","1556148571","","","","My bad, thought you were still talking about converting VTHO."
+"83","elp99x3","redditbcr","1556149618","","","","May have been asked before, but what are the places where VTHO can be sold?
+Can it be traded for Bitcoin? Can it be traded on Binance?
+Thanks!"
+"84","elpbgnh","rmarangelo","1556151142","Liquidity And Sellability | Wallet And Conversion Tooling | Foundation Price Intervention","negative | negative | negative","-1.0 | -1.0 | -1.0","Not true, the kyc keeps the withdrawal limit low for USA citizens and others , takes a ton of time to use oceanex for me, define “extremely easy” please? That’s rhetorical, it’s not easy for me abd fir many others, plus how can we all coordinate sells to keep vtho in the right price range"
+"85","elpby1m","Orionthehunt3r","1556151473","Price Growth Prospects | Foundation Price Intervention","positive | negative","1.0 | -1.0","Indeed, why would it! Doesn’t make sense. 
+
+Unless they wanna lock in, what seems like, a good price. It’s entirely possible that VET would be double, or triple, or 10x the price same time next year."
+"86","elpc10c","rmarangelo","1556151529","VTHO Price Level | Price Growth Prospects | Adoption-Driven Demand","negative | negative | negative","-1.0 | -1.0 | -1.0","EXACTLY!  I’ve been saying this last 3 days and I don’t understand how to see it another way, 
+
+Why would vet price go up if vtho is worthless? And if we onboard all the big companies now, how can small companies afford vet in future if they buy on open market and the price goes crazy high? They’ll just stay out of vechain and use a cheaper option 
+
+What am I missing?"
+"87","elpc310","Orionthehunt3r","1556151569","VTHO Yield Adequacy | VTHO Price Level","negative | negative","-1.0 | -1.0","Unless you have 50 million VTHO... 😆"
+"88","elpc568","rmarangelo","1556151609","","","","Agreed!"
+"89","elpc79s","Donglederper","1556151651","Liquidity And Sellability | Wallet And Conversion Tooling","positive | positive","1.0 | 1.0","Vexchange has no withdrawal limit. Its a dex. And literally is done with your wallet. You should try it with a comet wallet and small amount and see how you like it.
+
+Vexchange.io - download the comet extension and try. Simpler than a regular exchange even tbh."
+"90","elpcraz","rmarangelo","1556152049","VTHO Yield Adequacy | Price Growth Prospects","negative | negative","-1.0 | -1.0","Agreed, what Are we missing here? How does vet price rise with low vtho roi?"
+"91","elpdgnf","DonDinoD","1556152522","Liquidity And Sellability","positive","1.0","Follow your tip!
+
+&amp;#x200B;
+
+Vexchange works like a charm"
+"92","elpdxjx","_Thiswillexplode","1556152839","Speculation Versus Fundamentals | Price Growth Prospects","negative | positive","-1.0 | 1.0","""Why would anyone purchase or hold VET"" For the simple potential that it will increase in value, not for the VTHO production necessarily."
+"93","elpg9i1","CryptoRedemption","1556154439","","","","You seem to confusing vexchange (DEX with no credentials) with Oceanex (credentials + KYC)"
+"94","elph7sc","vegueria124","1556155102","Token Economic Model Soundness | VTHO Yield Adequacy | Speculation Versus Fundamentals","positive | negative | positive","1.0 | -1.0 | 1.0","You can't separate the 2. The only value that VET has (outside of XNode benefits) is VTHO generation. Therefore the only way VET will justifiably increase in value is if it provides a return on VTHO that is better than alternative investments. Otherwise it would be wiser to invest elsewhere and buy VTHO on the open market if you need it."
+"95","elpibz6","CryptoRedemption","1556155898","VTHO Yield Adequacy | Liquidity And Sellability | Speculation Versus Fundamentals","negative | positive | negative","-1.0 | 1.0 | -1.0","Because many of us think VTHO is better suited for being sold off rather than held."
+"96","elpiht3","_Thiswillexplode","1556156013","Speculation Versus Fundamentals | VTHO Yield Adequacy | Price Growth Prospects","positive | negative | positive","1.0 | -1.0 | 1.0","VET still has speculative value though, completely outside of VTHO and not unlike any other cryptocurrency out there surely. Many will simply buy VET in the hope that it rises in value, and will take the VTHO as a bonus. Never forget that it was pure speculation that drove crypto to the dizzying heights of last year"
+"97","elpjx8e","vegueria124","1556156968","Token Economic Model Soundness | VTHO Yield Adequacy | VTHO Price Level","negative | negative | negative","-1.0 | -1.0 | -1.0","VET's only purpose is to generate VTHO. What don't you understand about that? If VTHO is guaranteed to be worth little to nothing and holding VET isn't expected to generate enough of it to yield a decent return, VET has no value. You're basically relying on enough clueless people throwing money into VET based on nothing."
+"98","elpmmqx","_Thiswillexplode","1556158785","VTHO Yield Adequacy | Adoption-Driven Demand | Speculation Versus Fundamentals","negative | positive | positive","-1.0 | 1.0 | 1.0","Please correct me if I'm wrong mate, I probably have an over simplified view on this. When I invested (for lack of a better word) in Vechain, I did so purely because of the promise it showed in terms of multiple use cases, impressive partnerships with corporations, and a very professional approach to business dealings. 
+
+The way I see it, the accumulation of VTHO is so minute in terms of actual value that it barely seems worthwhile. Some do value it however and each to their own strategy. Whether that changes at some point when production rate increases we will see, but I'm sure many will buy VET simply for the reason that it is a promisingly successful entity with amazing fundamentals, and taking VTHO as a minor side bonus. I could be wrong though 🙂🙂🙂🙂"
+"99","elpnr2q","tenka3","1556159502","Token Economic Model Soundness | VTHO Yield Adequacy | Speculation Versus Fundamentals","negative | neutral | neutral","-1.0 | 0.0 | 0.0","No you don’t need two tokens, but you’d have to structure the tokenomics differently. The tokens you mentioned all have fundamentally different *tokenomics*. 
+
+BTC, for example, functions a lot more like a precious metal (e.g. gold) in principle and terminology like “mining” are even borrowed from this concept. The total transaction volume and velocity on the Bitcoin network is reflected in the value of the token itself. Bitcoin has a static supply (21m) and the remaining supply is inflating at a lower rate at each halving event (where mining rewards are half e.g. 12.5 to 6.25 around ETA of May 2020). 
+
+In laymen’s terms, it can be understood as the increase in total network activity relative to the total supply of circulating Bitcoin and it’s inflation rate is what attributes value to BTC. Keep in mind you require BTC to utilize the BTC network. You can get some metrics on this at [Bitcoin Block Half](https://www.bitcoinblockhalf.com). 
+
+As you can see this is quite different from VET/VTHO. The relationship of VET to the VeChain network (outside of staked VET by authority nodes) is a token generator. VET isn’t the token necessary to operate on the network itself. Therefore, the value of VET is dependent on the both the utilization and value of VTHO. 
+
+VET has more in common with a physical Bitcoin mining rig than BTC itself!"
+"100","elpouv9","bozzy253","1556160264","VTHO Yield Adequacy | VTHO Price Level","negative | negative","-1.0 | -1.0","This makes the payouts from holding VET a joke if the price is too low."
+"101","elpp47s","tenka3","1556160428","Token Economic Model Soundness | Speculation Versus Fundamentals | Community Information Quality","negative | negative | negative","-1.0 | -1.0 | -1.0","That is *probably* true based on what we know of Sunny and VeChain but it’s still an incorrect assumption - there are scenarios that would delink a rise in VET value even if volume and velocity of network activity increases many fold. I won’t explain it here unless there is a request to do so, but I’d definitely revisit those assumptions."
+"102","elpryaz","ohredditplease","1556162445","Liquidity And Sellability | VTHO Price Level","negative | negative","-1.0 | -1.0","Sell to who? They can't sell because they set their price too high. If price was too low ppl would be buying. They can't buy because price is too high."
+"103","elps3oz","Rezdawg3","1556162557","Speculation Versus Fundamentals | Price Growth Prospects","positive | neutral","1.0 | 0.0","My point was that speculation brings value in all the coins...just like it's role in any investment strategy, whether it's stocks, real estate, etc..."
+"104","elptbgu","Archerynoob22","1556163377","Token Economic Model Soundness | Adoption-Driven Demand | Community Information Quality","positive | positive | neutral","1.0 | 1.0 | 0.0","I've been thinking about this the past few days, and was looking at the VeChain White Paper Section 3.1 Economic Model &amp; Design Background.  The foundation has this to say -
+
+&amp;#x200B;
+
+""We additionally provide a general growth model for modeling token prices in Section 3.5. Generally, the VeChain Token (VET) price consists of three parts: the present value of all future VTHO generated; the present value of VeChain Tokens (VET) as a cryptocurrency; and the present value of the use of VeChain Tokens (VET) as value transfer media (or smart money) on the VeChain blockchain. ""
+
+&amp;#x200B;
+
+(Section 3.5 is page 40 that OP is discussing).  From what I understand, the foundation views VET as a cryptocurrency, that also generates VTHO.  This makes reasonable sense to me, since VET without VTHO (or almost any other crypto for that matter) is just Bitcoin with a different proving method.  I won't comment on the factors that affect Bitcoin's value, as most people here probably get the idea.   
+
+&amp;#x200B;
+
+It seems to me like the idea is that, eventually, VeChain will have a large enough ecosystem in which VET will be the common currency amongst all parties that partake in it.  An analogy would be the US Dollar within the USA, where USA = VeChain Ecosystem and USD = VET.  At a certain point, if the ecosystem is large enough, it makes sense to cut out the middleman and simply trade VET itself as a currency (instead of trading USD to VET or the Euro to VET).  
+
+&amp;#x200B;
+
+As for what can be bought and sold using VET- I'm not sure if the intent is for it to just be the tokens that allow you to use some of the projects built on the  VET blockchain.  Maybe with the carbon ecosystem, the carbon credits can be bought and sold in VET amongst companies.  I'm sure more has been said by the Foundation to this end, but I'm admittedly ignorant at this time and can't say more about it."
+"105","elpv3fi","tenka3","1556164695","Speculation Versus Fundamentals | Adoption-Driven Demand | Token Economic Model Soundness","negative | negative | negative","-1.0 | -1.0 | -1.0","I suppose that’s a *valid* argument... but then, what is the point of developing an over complicated crypto economy just to speculate on? One can speculate on anything, literally: seashells, round rocks, tulips, minerals, people, video game collectibles, etc. The value for that kind of activity here is questionable as it doesn’t deliver some clear scalable form of utility that humans value outside of *pure speculation* (the entire crypto economy was birthed for this purpose).
+
+The examples (stocks, bonds, REIT’s, commodities, real estate, etc) you mentioned all have a viable underlying logic and explanation for their valuation aka mechanisms defining their economic and human utility (the value is more a question of magnitude and assessing the level of risk involved). Those concepts are relatively well defined for those kind of assets ... example NAV, DCF, NPV, P/E, book value, etc are all metrics used to make assessments across asset classifications and their behavior of returns on the market. 
+
+A business with no revenue, no mechanism to generate revenue and no assets of value can be speculated on but it is, in my opinion, a futile endeavor in this *context* and doesn’t add much utility to consumers or the broader economy. You are more or less making a case that tokens should be viewed as collectible item - “someone will value this item in the future more than I do today for its intrinsic qualities”.
+
+We could go into a long conversation about the value of speculation, but I think that is beyond the scope of this thread."
+"106","elpvc55","tedgruf","1556164892","VTHO Price Level | VTHO Yield Adequacy | Foundation Price Intervention","negative | positive | negative","-1.0 | 1.0 | -1.0","It almost seems like they want their cake and to eat it too.
+
+They want cheap vtho, but investors (wrongly or not) seem to have brought into VeChain because they believe vtho would be their roi for holding vet. It seems the foundation does not want this. 
+
+Now people are hoarding vtho and want it's price to go up before they sell so they get better roi.
+
+In response to this, Sunny is basically asking people to sell to make the price lower so transactions are cheaper and they can attract more clients.
+
+Vtho is a crypto currency and subject to market forces e.g. supply and demand. The foundation it seems, wants to control it's price and drive it lower.
+
+Where else have we seen this.. oh yeah.. vet sell walls on Binance. They seem to be succeeding in driving the vet price down, or keeping it low, but not so much with vtho yet, due to lack of liquidity. Why not list it on Binance and dump foundation vtho, thus driving price into the ground?
+
+Maybe if we get vtho down to a level the foundation is happy with, they can let the vet price rise a bit.
+
+Currently it's the ROI seekers (created by the foundation) vs the cheap transaction seekers (the foundation).
+
+/Mindless rambling dribble."
+"107","elpvmve","vegueria124","1556165139","Speculation Versus Fundamentals | VTHO Yield Adequacy | Foundation Price Intervention","negative | negative | negative","-1.0 | -1.0 | -1.0","You're missing the point. People buy on speculation of price rising when a token serves a specific purpose and the expectation is that it will be in the demand in the future. If VET is guaranteed to provide minimal returns because of VTHO manipulation, then it has no purpose and nobody in their right mind would buy it."
+"108","elpvon1","bossanovawitcha","1556165185","Liquidity And Sellability | VTHO Price Level | Token Economic Model Soundness","negative | neutral | negative","-1.0 | 0.0 | -1.0","No liquidity on OCE to sell mate.
+
+On top of that, OCE isn’t available to USA.  .1 BTC withdrawal will not entice USA users.
+
+Finally, Sunny said price of VTHO didn’t have to be low, on the record.  Many of us bought VET during bear on those words, and many others.
+
+I love VET, but disagree with your narrative and your tokenomics."
+"109","elpvtgm","vegueria124","1556165309","Adoption-Driven Demand | Price Growth Prospects","positive | positive","1.0 | 1.0","That's an interesting point. If a marketplace to exchange VET is in the cards, that's adds another driver of demand for the token, which could result in price increases that are independent of what VTHO is doing."
+"110","elpw595","bossanovawitcha","1556165620","Speculation Versus Fundamentals | VTHO Price Level","negative | neutral","-1.0 | 0.0","“speculative value” based on speculating that VTHO will make the VET token more valuable requires VTHO speculation"
+"111","elpwpmb","bossanovawitcha","1556166114","Token Economic Model Soundness","negative","-1.0","if it was meant to be worthless, what was the point of nodes?"
+"112","elpwslb","bossanovawitcha","1556166189","Foundation Price Intervention | Liquidity And Sellability | Community Information Quality","negative | negative | negative","-1.0 | -1.0 | -1.0","exactly, it’s like they want it to be part of open market, but they don’t"
+"113","elpww61","bossanovawitcha","1556166278","","","","nailed it"
+"114","elpwzw2","bossanovawitcha","1556166367","Community Information Quality","negative","-1.0","I believe your Economics 101 teacher would be disappointed in ya bud"
+"115","elpx51o","Edifiler","1556166494","Token Economic Model Soundness | Adoption-Driven Demand","negative | positive","-1.0 | 1.0","&gt;VET's only purpose is to generate VTHO.
+
+Not true, VET is also used to settle smart contracts or as a monetary medium that can be used to invest in ICOs."
+"116","elpx7gh","bossanovawitcha","1556166553","","","","why is it so hard for people to see this"
+"117","elpxtsm","bossanovawitcha","1556167074","Liquidity And Sellability | Speculation Versus Fundamentals","neutral | neutral","0.0 | 0.0","which will happen when free market finds a price that attracts sellers to take action"
+"118","elpz5jq","bhaveshaNew","1556168256","Adoption-Driven Demand | Speculation Versus Fundamentals","negative | negative","-1.0 | -1.0","Valid points and comments, but who is buying our vthor until the real adoption kicks in?"
+"119","elpz9x2","MostlyCasual","1556168359","","","","If you don’t remember the study you probably only read 2 lines of it"
+"120","elq0foo","Rezdawg3","1556169423","Speculation Versus Fundamentals | Community Information Quality","negative | negative","-1.0 | -1.0","No, it was a big topic of discussion on how stocks are overwhelmingly priced with speculation rather than what theyre actually doing."
+"121","elq271k","Bigunsy","1556171030","VTHO Price Level | Speculation Versus Fundamentals | Community Information Quality","negative | negative | negative","-1.0 | -1.0 | -1.0","Did you read the OP? The math says it’s way over valued right now, care to argue ur case vs that?"
+"122","elq6i4w","Kingdewd","1556175568","Liquidity And Sellability | Wallet And Conversion Tooling | VTHO Price Level","negative | negative | negative","-1.0 | -1.0 | -1.0","I have both and will try with a tad bit
+Im wanting to learn all this!
+DL comet last week and wondered if vexchange was my out from using OceanEX(USA too) 
+So this may seem like a off ?
+After u sell VTHO on vexchange you then buy VET on Vexchange too &amp; send back to wallet? As I am reading, its more of a pain than a gain!
+Seems a bit odd to sell VTHO barely have any worth selling. I was told by my fund manager/ way to early to burn VTHO( Thats is a LONG LONG hold.)
+Decisions decisions!"
+"123","elq73s1","Soulfuel1","1556176237","VTHO Yield Adequacy | Foundation Price Intervention | Price Growth Prospects","negative | neutral | negative","-1.0 | 0.0 | -1.0","Exactly. This is my worry about CREAM and Sunnys statements. How can we expect VET price to increase if the ROI in vtho stays low? 
+
+I've thought about this a lot lately, and the only way I see this working for both VET holders and companies using the blockchain is this;
+
+Let's say you generate 21 vtho a day currently and 1 vtho is worth 0.02$. Transaction cost should be 0.21$ per transaction and currently 1 transaction costs 21 vtho, which is too much (21×0.02=0.42$).
+
+Now, foundation either decides to cut transaction cost to half (scenario 1), or double the vtho generation (scenario 2).
+
+Scenario 1
+Transaction cost is cut to 10,5 vtho, which equals 0.21$ per transaction. Your VET holdings now generate enough vtho per day for 2 transactions equal to 0.42$ instead of 0.21$.
+
+Scenario 2
+Vtho generation is doubled fron 21 to 42 per day, which is again enough for two transactions a day (21 vtho per transaction. Your ROI increased fron 0.21$ to 0.42$."
+"124","elqa03c","Arno5995","1556179519","","","","Can you elaborate why that would happen?"
+"125","elqd5t2","lokix88","1556183639","Price Growth Prospects | Speculation Versus Fundamentals","positive | positive","1.0 | 1.0","Who cares? VET will be a $1 in the next bull run."
+"126","elqjb0b","polagon","1556191434","Liquidity And Sellability | Wallet And Conversion Tooling","positive | neutral","1.0 | 0.0","Exactly, there's nothing strange with setting a market order and perhaps add flexibility for 2-5% to match market movements. That's not really that complicated in itself as a concept."
+"127","elqk9pl","sicko78","1556192431","","","","156x. Right. :-)"
+"128","elqm7l2","nichef","1556194208","Adoption-Driven Demand | VTHO Price Level | Speculation Versus Fundamentals","positive | negative | positive","1.0 | -1.0 | 1.0","Then the foundation needs to increase demand organically if speculative demand isn't enough.  The problem is demand is low and people who hold VTHO feel the price is too low and that price will eventually increase.  You should really learn about markets.  It has nothing to do with Vechain's game plan everything is an affect of supply and demand.  You can cry all day long, I know you have that down pat, but it won't change anything."
+"129","elqmely","park_injured","1556194377","Liquidity And Sellability | Foundation Price Intervention","negative | neutral","-1.0 | 0.0","what about the huge sell walls on Binance for months? Has the team addressed that yet?"
+"130","elqtz8c","muhdecentralization","1556199988","Foundation Price Intervention | Community Information Quality","negative | negative","-1.0 | -1.0","yet have done...nothing except imply it's the community's fault and responsibility to fix their tokenomics by dumping?"
+"131","elquev1","muhdecentralization","1556200282","","","","excellent post"
+"132","elqupbu","Cuzah","1556200471","Foundation Price Intervention | Adoption-Driven Demand | Wallet And Conversion Tooling","negative | positive | neutral","-1.0 | 1.0 | 0.0","Where has Sunny has implied:
+
+&gt;  it's the community's fault
+
+&gt;  and responsibility to fix their tokenomics by dumping?
+
+Of course if anything they haven’t done anything yet, prioritizing matters is apparently on their list. Like the whole summit event. Their job right now is expanding the VeThor eco. 
+
+From his comments at the summit, and in the past for the VeThor, its all adjustable. It’s not as time consuming and creating and organizing these enterprises and working with them."
+"133","elr3wcf","MachoManForYou","1556206274","Token Economic Model Soundness | VTHO Yield Adequacy | VTHO Price Level","positive | neutral | neutral","1.0 | 0.0 | 0.0","You're missing that the transaction cost stays the same. 
+
+It's true that a bigger demand will have a positive influence on the price, however Vechain can adjust the amount of VTHO needed for a transaction. So if they need to pay $1 in transaction fees, it doesn't matter for companies to pay 20 VTHO worth 0,05$ each or 100 VTHO worth 0,01$ each. The transaction fee is exactly the same.
+
+&amp;#x200B;
+
+However,  adjusting the generation rate will increase the VTHO supply = lower price.  rekt?  
+
+
+NO, you'll get more VTHO.  Compare it with the sum above, receive 100 VTHO (of 0,01$) a day instead of 20 VTHO a day (0,05$). The dividend stays the same. 
+
+&amp;#x200B;
+
+RESULT: with a limited supply of VET and a rising demand of companies wanting to buy the cow (VET) to milk it further (VTHO), the price of VET will increase.
+
+&amp;#x200B;
+
+Wouldn't it be nice if the % generation rates (you get more VTHO) is BIGGER than the % drop of value from VTHO?
+
+&amp;#x200B;
+
+Or am I missing something?"
+"134","elr6u6g","jmfronsee","1556208063","Adoption-Driven Demand | Speculation Versus Fundamentals","neutral | neutral","0.0 | 0.0","If Enterprises are currently “balking” at the price of vTho.  Why don’t they do what was intended?  (Or why HAVN’T they) - &amp; buy VET to generate said vTho?"
+"135","elraf8b","DocM0ney","1556210248","Price Growth Prospects | Speculation Versus Fundamentals | Community Information Quality","positive | negative | positive","1.0 | -1.0 | 1.0","In a way it would be unfortunate, because a lot of people in this space love to jump ship and dump a coin when other coins start moving upward. However, for anyone looking to invest in something steady with a long term vision, this looks great for now.    
+
+
+I'm a bit biased because I was heavily involved in several crypto communities last year and I'm very used the lambo mentality. It's refreshing coming back after months of ignoring crypto and seeing some communities have matured quite a bit.  
+
+
+This is looking much better for long term investors or level headed people lol"
+"136","elrams4","Diqiurenminbi","1556210375","","","","An example so far would be using VET to invest into the new ICO's."
+"137","elrcbms","git_world","1556211422","","","","Does holding VET automatically regenerate VTHO?"
+"138","elrcxvv","rmarangelo","1556211824","VTHO Yield Adequacy | VTHO Price Level | Price Growth Prospects","negative | negative | negative","-1.0 | -1.0 | -1.0","Yes I understand all that, 
+
+I think I didn’t get my point across but I’ve mostly given up, and going to sit back and let it ride
+
+But let’s try one last time.
+
+If big companies are onboarded now via otc at cheap prices till all otc is gone , how can smaller ones afford to join later? They have to buy vet on open market, we will hodl our vet in nodes, they’ll get some but then prices will rise to where it’s uneconomical for them to join the chain, so they can buy cheap vtho on open market but as we said that’s still cheap and if it’s so cheap that the roi of holding a vet node has a super small roi, then why would vet price rise much? 
+
+Deloitte gets in at 0.007usd /vet how can a small company get in at 0.10usd / vet and have it be worth it for them to do so? And how can anyone? Especially if the roi on the vet they’re buying is lower than a savings account 
+
+Does that make sense?
+
+I’m Concerned that vet and vtho price won’t rise much from here even with mass adoption based on what I’m seeing so far, I hope I’m Wrong , but I’m Concerned and trying my best to explain why via my perspective on vet tokenomics"
+"139","elrfkr8","MachoManForYou","1556213452","VTHO Price Level | Foundation Price Intervention | VTHO Yield Adequacy","neutral | positive | positive","0.0 | 1.0 | 1.0","Don't let it ride, cause you're sitting on a diamond.
+
+&amp;#x200B;
+
+Trying to keep it stupid simple:
+
+  
+Vechain will implement a low and stable VTHO price. The price of VTHO will stay the same.
+
+However, if the ecosystems grows, the demand for VTHO will rise and so will the price.
+
+So, Vechain will adjust the generation rate so the price is still low and stable (the same price before VTHO rising), but you'll get more VTHO.
+
+&amp;#x200B;
+
+Let's try to give an example:  
+1) It's 1$ per VTHO. 100 VET gives you 1 VTHO (= 1$)  
+2) Demand goes up, price would normally go up to but they just multiply the generation rate  
+3) The price stays at 1$ per VTHO, but 100 VET now gives you 2 VTHO (2$)
+
+&amp;#x200B;
+
+So as soon as the ecosystem grows and the mainnet is on steroids, the VTHO price will rise or you'll get more VTHO."
+"140","elrfv1d","rmarangelo","1556213630","VTHO Yield Adequacy | Token Economic Model Soundness | Price Growth Prospects","negative | negative | negative","-1.0 | -1.0 | -1.0","Yes dude, I said I understand that, you don’t need to repeat it :) 
+
+You’re writing as if vtho roi will be high and I’m saying that many people are now saying vtho roi will be crazy low, do you see that I wrote that above?  So if vtho roi stays low, no matter what the generation rate of vtho, who will want a node? Who will want vet? The thing vet produces isn’t worth holding vet if the roi isn’t high enough"
+"141","elrgmjg","MachoManForYou","1556214110","VTHO Yield Adequacy | Price Growth Prospects | Token Economic Model Soundness","positive | positive | positive","1.0 | 1.0 | 1.0","Apparently you still don't, sigh.
+
+&amp;#x200B;
+
+Who will want VET? Everyone. It rises in price when you make more and more profit of VTHO.  
+'no matter what the generation rate', man I'm talking to a wall. It does matter, because VTHO stays the same price but you'll get a more VTHO's. NODE holders will get a LOT more VTHO's.
+
+&amp;#x200B;
+
+But hey, who wants VET."
+"142","elrgvus","MachoManForYou","1556214266","VTHO Price Level | Foundation Price Intervention | VTHO Yield Adequacy","negative | negative | neutral","-1.0 | -1.0 | 0.0","They keep it low but stable.
+
+&amp;#x200B;
+
+Let's say the price will always be 1$/VTHO. When there's a lot of demand, they'll not let the price go up but they keep it stable at 1$, but distribute more VTHO."
+"143","elrhuzj","rmarangelo","1556214853","VTHO Yield Adequacy | Price Growth Prospects | Speculation Versus Fundamentals","positive | positive | neutral","1.0 | 1.0 | 0.0","Yes dude I understand what you’re saying 
+
+You don’t understand what I’m saying 
+
+It’s ok, thank you for your time 
+
+I hope you’re correct, I hope that the roi on vtho is high and that people want vet and vtho. Sometimes it’s difficult to decipher meaning via text.  As in “let it ride”, that means hold it, do nothing and wait, I think you interpreted that as sell it.  I also think my other points were not conveyed and that’s ok too :) let’s both hold vet and hope for the best, it’s mostly out of our control anyways in regards to it’s future.  I’ll keep mine safe and wait 2 years 🙏🙏🙏🙏and quietly pray, a LOT :)"
+"144","elri0af","Orionthehunt3r","1556214944","Foundation Price Intervention | Speculation Versus Fundamentals | Price Growth Prospects","positive | negative | negative","1.0 | -1.0 | -1.0","Agreed. I think a steady and predictable ship is  what the foundation is attempting to achieve as well with $VET. I believe they are trying to, as much as possible, take away the heavy speculation from the price of their token that’s so intrinsic to their platform. Would you get on a boat that’s constantly rocking back and forth? 
+
+Professional organizations with billions of dollars of public funds on the line, would never work with a company (Vechain) that has an asset (VET) that is volatile like a crypto currency, and constantly gets pumped and dumped."
+"145","elrpclw","DocM0ney","1556219419","Adoption-Driven Demand | Community Information Quality | Speculation Versus Fundamentals","positive | negative | neutral","1.0 | -1.0 | 0.0","It's scary how much sense this makes. Because I've been reading through this thread and there's so much back and forth between the community it seems!  
+
+
+""Sell VTHO it's useless!""  
+""BUY VTHO and hold til pamp!""  
+
+
+I don't know who to believe.  
+I'd like to think adoption is VeChain's money maker. As the ecosystem flourishes, so does the price of VET. (Right?)   
+
+
+This is what happens when you take too much information at once, most of which is based off opinion and now I don't know where to begin."
+"146","elrsp9o","Orionthehunt3r","1556221521","Adoption-Driven Demand | Foundation Price Intervention | Price Growth Prospects","positive | negative | positive","1.0 | -1.0 | 1.0","It’s an ongoing process. You can say that we’ve been fucked over when Vechain shutters their doors. Not now, when they just had 3 major assurance companies speak publicly about using their Platform at the summit, and not when they just announced a $500 million dollar grant to grow their eco system."
+"147","elrsvf2","dandanbang","1556221627","VTHO Yield Adequacy | Adoption-Driven Demand | Speculation Versus Fundamentals","positive | positive | positive","1.0 | 1.0 | 1.0","Great civilized conversation! Wouldn’t the savings from generating vthor justify the low ROI. Businesses buying vet do so because owning a node saves them more money over the long term. Thus, mass adoption will drive more business wanting to buy VET for the savings."
+"148","els0zig","DocM0ney","1556226505","Wallet And Conversion Tooling | Community Information Quality","neutral | negative","0.0 | -1.0","You're right! I'm going to have to re acclimate myself with VeChain and visit a roadmap to see where they're headed. I've wanted to hop on board for a while now (almost a year) but there's so much back and forth I've read today.  
+
+
+In your opinion, is VTHO worth holding as it continues to generate, or would you rather sell whatever VTHO is generated lets say each week and obtain more VET that way along with normal investments in VET?"
+"149","els20xq","Orionthehunt3r","1556227156","Liquidity And Sellability | Wallet And Conversion Tooling | VTHO Yield Adequacy","negative | negative | neutral","-1.0 | -1.0 | 0.0","I can’t say that I have a particular strategy. Essentially once it build up to a point where I felt I’d get something back, I sold it. There just isn’t an efficient way of selling it yet though. Until it becomes as easy as pressing one button from the wallet to sell, people will continue to hold on to it. 
+
+I think a good strategy is to sell at a particular price point, like .15 VET, or once every 1/3/6 months etc. 
+
+I’ve made about 30k VET from the sale of my VTHO. It’s very little now, but who knows. Might be worth something some day. Cheers!"
+"150","elsaaa9","Donglederper","1556232574","Liquidity And Sellability | Wallet And Conversion Tooling","positive | positive","1.0 | 1.0","Its pretty much just a swap in wallet. You sell whatever coin u want and get the coin you buy instantly in your wallet."
+"151","elsbo6j","freevideochat","1556233504","Adoption-Driven Demand | Speculation Versus Fundamentals | Price Growth Prospects","positive | negative | neutral","1.0 | -1.0 | 0.0","its not like you must belive someone, you must have your own vision and make your own decisions which cant be based on what someone else tell you to do with your own money. Long term adoption is the only thing what can drive the price up, short term only manipulation, hype news and pump&amp;dumps games. There are no rules in crypto, this market is unpredictable and most time things will not go in direction that is obvious. There is also one other view, all prices are results of speculation, we all buy and hope there will come time when we can sell it for higher price, based on zero adoption and the fact that you can make your own blockchain for free maybe prices are way overpriced right now and it will tank another -90% but it can easily go other way around and you will miss the train. VET/VTHO story is way more complicated that people think. There are 100 possible scenarios, lest say one of them is that VET go to 10 sat, you will all say thats never going to happend but lets say it happend with some FUD, exchanges hack, SEC decisions ect. The price VTHO/VET pair will go 1000% up since 0,11 VET would be 10 times cheaper from curent USD price and that can 1 VTHO make worth more from 1 VET since in USD it will remain the same where its now but you will have 10 times more VET. Im not saying VET its going to 10 sat just pointing up one of 100 possible scenarios that can happend. I explained few of them and my post was deleted in less then 5 seconds which i find very suspicious it was deleted and all VTHO is overpriced crap post are allowed even if there is a rule not to speculate about price. There are people who bet on VTHO and people who bet on VET and if you are not sure which is best way to invest in VeChain maybe you should go in VET since VTHO is not long term hold and you will need to see when the time comes to trade back in VET or you will become bagholder if you miss the right time to make the trade. Whatever you do dont ever invest your money on something just because someone said you should do it the same like they have done."
+"152","else1tz","DocM0ney","1556235102","VTHO Yield Adequacy | Price Growth Prospects | Community Information Quality","neutral | positive | positive","0.0 | 1.0 | 1.0","Thank you for taking the time to explain your stance on VET / VTHO! I appreciate the help and your perspective.
+
+I'm going to keep an open mind when it comes to the pair, but I think my best bet would be to focus on VET since it's longer term and I wouldn't have to monitor it as often. 
+
+I appreciate the scenario explanation as well!"
+"153","else58m","DocM0ney","1556235168","Liquidity And Sellability | Community Information Quality","positive | positive","1.0 | 1.0","Wow very nice, that's a pretty good turnaround of VET after selling VTHO! (in my opinion)
+
+I appreciate the response! Best of luck to all of us"
+"154","elskuzm","rmarangelo","1556239765","VTHO Yield Adequacy | Price Growth Prospects | Liquidity And Sellability","negative | negative | negative","-1.0 | -1.0 | -1.0","If you mean low roi NOW, then sure, if you mean in the future at full steam (when all vet is on open market) then no I don’t think so, that’s my whole point, 
+
+If you get super low roi on vet node and vet becomes expensive but vtho is cheap, then just buy vtho on market, and the foundation will have billions of vet, they will have tons of vtho to sell, so I’m wondering, who will want our vet and vtho? 
+
+Like I said, I hope I’m Wrong and there’s tons of vtho and vet demand for us, but I am having difficulty imagining where it’ll come from 
+
+Smaller users of dapps can buy from market but if vtho is so low in price, then...it’s potentially not even worth my time to sell my vtho on market 🤷🏼‍♂️
+
+Please steer me in the right direction because I hope I’m wrong 
+
+I understand macho man, he’s saying that vtho roi will be high, he’s saying that the vtho Generation rate will increase as the price of vtho lowers and that the increased vtho generation rate will exceed the rate of price drop, keeping vtho roi high, THIS IS HOW I SAW THIS ECONOMIC MODEL TOO, until this week :( 
+
+if you read through the vechain telegram this week, all admin are adamant that this won’t be the case, 
+AND THAT VTHO ROI WILL BE HELD LOW ON PURPOSE
+
+And that’s why I’m concerned now, 🙈🙈🙈
+
+But like I said it’s out of my control, I can sell now and jump ship which I def don’t want to, I’ve had vet for almost 2 years and told everyone what an awesome project it is, or I can hold, so I WILL HOLD AND PRAY, it’s all I can do, it’s out of my control 
+
+Biggest comforting thought I have is that the vechain employees are being paid in vet, so.....they want the price to rise eventually, so I’d imagine business model has their interest abd hopefully ours in mind and they know how to make it happen 🙏🙏🙏🙏🙏"
+"155","eltavps","ohredditplease","1556260674","","","","I don't think that is intended."
+"156","eltawsd","ohredditplease","1556260712","","","","That's what she said about Bitcoin..."
+"157","eltax5w","ohredditplease","1556260727","","","","Buyers"
+"158","eltdbd1","ohredditplease","1556263832","","","","Did you read the topic?"

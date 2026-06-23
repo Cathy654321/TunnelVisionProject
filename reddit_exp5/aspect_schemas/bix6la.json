@@ -1,0 +1,139 @@
+{
+  "event_id": "bix6la",
+  "schema_version": "absa-scan-v1-2026-06-23",
+  "event_title": "r/PurplePillDebate: Why do guys care about the 80-20 rule?",
+  "method": "absa-acsa-fixed-schema",
+  "sentiment_classes": [
+    "positive",
+    "neutral",
+    "negative"
+  ],
+  "aspects": [
+    {
+      "name": "Statistical Validity Of The Rule",
+      "definition": "How accurate/true the 80/20 (Pareto) claim is as an empirical description of the sexual marketplace, including whether cited statistics and studies confirm or undercut it.",
+      "cues": [
+        "80/20",
+        "Pareto",
+        "statistics",
+        "studies",
+        "OkCupid",
+        "Tinder",
+        "37%",
+        "26% virgins"
+      ]
+    },
+    {
+      "name": "Definitional Scope Of The Rule",
+      "definition": "What the rule actually claims and how broadly it applies — casual sex only vs LTRs/marriage, distribution of acts vs count of individuals, and competing interpretations (#1-#4).",
+      "cues": [
+        "interpretation",
+        "what it means",
+        "casual sex only",
+        "married",
+        "LTR",
+        "monopolize",
+        "distribution",
+        "doesn't apply to"
+      ]
+    },
+    {
+      "name": "Desert And Worthiness Of The Sexless",
+      "definition": "The moral question of whether men (the ~26%) not getting sex/love deserve to be alone, are repulsive, or are entitled to intimacy.",
+      "cues": [
+        "deserve",
+        "undeserving",
+        "repulsive",
+        "entitled",
+        "not all guys",
+        "redeeming qualities",
+        "worthy",
+        "deserving of love"
+      ]
+    },
+    {
+      "name": "Societal Danger From Disenfranchised Men",
+      "definition": "Whether a growing population of sexless/disenfranchised men poses a threat of violence, crime, terrorism, or political instability.",
+      "cues": [
+        "disenfranchised",
+        "nothing to lose",
+        "violence",
+        "dangerous",
+        "crime",
+        "ISIS",
+        "bomb",
+        "consequences"
+      ]
+    },
+    {
+      "name": "Women's Mate Selection And Hypergamy",
+      "definition": "How women choose partners — standards, attraction concentrated on top men, hypergamy/'trading up,' and shallowness vs realism.",
+      "cues": [
+        "hypergamy",
+        "trading up",
+        "standards",
+        "women want",
+        "Chad",
+        "top 20%",
+        "find 80% of men unattractive",
+        "vain"
+      ]
+    },
+    {
+      "name": "Men's Prescribed Response",
+      "definition": "What men should do about the situation — self-improve and try harder, vs disengage via MGTOW / channel urges elsewhere, vs give up.",
+      "cues": [
+        "improve yourself",
+        "man up",
+        "MGTOW",
+        "red pill",
+        "try harder",
+        "self-improvement",
+        "channel ... into art and commerce",
+        "get better at it"
+      ]
+    },
+    {
+      "name": "Fairness Of The Dating Market",
+      "definition": "Whether the dating/sexual marketplace is rigged or unfair to either sex, and analogies to economic inequality/meritocracy.",
+      "cues": [
+        "stacked against men",
+        "unfair",
+        "fair",
+        "dating game",
+        "meritocracy",
+        "wealth distribution",
+        "capitalism vs socialism",
+        "rigged"
+      ]
+    },
+    {
+      "name": "Sexual Outcome Disparity By Gender",
+      "definition": "Comparisons of how the two sexes fare — whether women also face loneliness/dissatisfaction, the symmetry of 'bottom-barrel' members, and unsatisfying sex on both sides.",
+      "cues": [
+        "women also",
+        "bottom barrel of women",
+        "femcel",
+        "both sides",
+        "never have an orgasm",
+        "satisfying sex",
+        "same for women",
+        "looksmatch"
+      ]
+    },
+    {
+      "name": "Personal Relevance And Motivation To Care",
+      "definition": "Why men engage with the rule at all — because it affects them and motivates problem-solving, vs envy/whining/sour grapes.",
+      "cues": [
+        "why do guys care",
+        "affects them",
+        "envy",
+        "whining",
+        "sour grapes",
+        "cope",
+        "Q4M",
+        "men getting triggered"
+      ]
+    }
+  ]
+}

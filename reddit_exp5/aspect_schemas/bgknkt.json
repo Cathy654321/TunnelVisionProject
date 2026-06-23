@@ -1,0 +1,167 @@
+{
+  "event_id": "bgknkt",
+  "schema_version": "absa-scan-v1-2026-06-23",
+  "event_title": "r/bayarea: Nextdoor is a gold mine for NIMBYism",
+  "method": "absa-acsa-fixed-schema",
+  "sentiment_classes": [
+    "positive",
+    "neutral",
+    "negative"
+  ],
+  "aspects": [
+    {
+      "name": "Housing Supply Expansion",
+      "definition": "Building more housing units (this development and in general) as a response to the regional shortage -- whether adding supply is the right remedy.",
+      "cues": [
+        "build more housing",
+        "more supply",
+        "build more dwellings",
+        "block the building",
+        "more units",
+        "housing crisis solution",
+        "supply and demand",
+        "razing"
+      ]
+    },
+    {
+      "name": "Building Height And Density",
+      "definition": "The scale, height (8 stories), and density of the proposed structure relative to the surrounding low-rise neighborhood.",
+      "cues": [
+        "8 stories",
+        "eight stories",
+        "high rise",
+        "five story",
+        "ten stories higher",
+        "massive multi unit",
+        "triplex",
+        "FOUR TIMES LARGER"
+      ]
+    },
+    {
+      "name": "Neighborhood Character Preservation",
+      "definition": "The desire to keep the existing 'feel,' quietness, and look of the neighborhood unchanged by new development.",
+      "cues": [
+        "feel of our neighborhood",
+        "ruin our neighborhood",
+        "small neighborhood feel",
+        "change the feel",
+        "neighborhood character",
+        "I LIKE SAME",
+        "beautifying change",
+        "deathly terrified of change"
+      ]
+    },
+    {
+      "name": "Parking Availability",
+      "definition": "Whether the development provides adequate parking and the broader adequacy of street/residential parking, including permit schemes.",
+      "cues": [
+        "parking",
+        "parking space",
+        "park a block away",
+        "300 cars",
+        "1.25 parking spaces per unit",
+        "permitted parking",
+        "RPP",
+        "street sweeping"
+      ]
+    },
+    {
+      "name": "Transit Proximity",
+      "definition": "The development's closeness to rapid transit (BART) and the value of siting housing near transit.",
+      "cues": [
+        "BART",
+        "walking distance to BART",
+        "near transit",
+        "rapid transit",
+        "ten minute walk to a Bart station",
+        "block the traffic noise",
+        "El Camino",
+        "transit-oriented"
+      ]
+    },
+    {
+      "name": "Jobs-Housing Imbalance",
+      "definition": "The mismatch between the volume of jobs/office space approved and the housing built to support workers.",
+      "cues": [
+        "jobs eight times faster than housing",
+        "jobs to housing ratio",
+        "more office space than housing",
+        "bedroom community",
+        "jobs-housing balance",
+        "campuses",
+        "office buildings",
+        "Oyster Point"
+      ]
+    },
+    {
+      "name": "Responsibility Attribution",
+      "definition": "Where blame for the housing crisis is assigned -- city/zoning policy versus tech businesses/corporations versus homeowners.",
+      "cues": [
+        "fault of the city",
+        "blame businesses",
+        "the business is equally responsible",
+        "fault of the companies",
+        "corporations",
+        "tech CEOs",
+        "scapegoating",
+        "city controls these things"
+      ]
+    },
+    {
+      "name": "Homeowner Property Values",
+      "definition": "Homeowners' financial self-interest in property appreciation and the claim that opposition is driven by protecting home values.",
+      "cues": [
+        "property values",
+        "increase the value of their property",
+        "drive property values up",
+        "propertaaaaay valoooooos",
+        "lowering my property value",
+        "drive down their home prices",
+        "personal gain",
+        "tax hike"
+      ]
+    },
+    {
+      "name": "Racial Coding Of Opposition",
+      "definition": "Whether the development opposition (and Nextdoor discourse) carries racial/economic discrimination, redlining echoes, or is race-neutral.",
+      "cues": [
+        "Coloreds",
+        "racist",
+        "redlining",
+        "Urban Renewal",
+        "suspicious individual",
+        "brown people",
+        "POC ALERT",
+        "racial profiling"
+      ]
+    },
+    {
+      "name": "Tax Structure And Public Finance",
+      "definition": "How Prop 13, commercial vs. residential taxation, pensions, and municipal budgets shape development incentives.",
+      "cues": [
+        "Prop 13",
+        "tax structures",
+        "track inflation",
+        "pension costs",
+        "municipal budgets",
+        "tax businesses",
+        "commercial properties",
+        "property taxes"
+      ]
+    },
+    {
+      "name": "Nextdoor Platform Quality",
+      "definition": "Evaluation of Nextdoor as a platform -- its toxicity, paranoia/policing culture, full-name policy, moderation, and residual usefulness for buy/sell or lost pets.",
+      "cues": [
+        "Nextdoor",
+        "toxic stew",
+        "cesspool",
+        "more toxic than Facebook",
+        "echo chamber",
+        "buy and sell features",
+        "full name policy",
+        "froze my account"
+      ]
+    }
+  ]
+}
